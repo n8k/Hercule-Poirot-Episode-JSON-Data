@@ -1,0 +1,4497 @@
+[
+	{
+		"season": 1,
+		"episode": 1,
+		"title": "The Adventure of the Clapham Cook",
+		"episodeSummary": "Poirot takes a humble case involving a missing domestic, one which leads to uncovering a crime much more sinister.",
+		"originalAirDate": "1989-01-08T00:00:00.000Z",
+		"director": "Edward Bennett",
+		"writer": "Clive Exton",
+		"mood": "light",
+		"tropes": {
+			"poirotIsReallyBelgian": "true"
+		},
+		"mainCharacters": {
+			"japp": "true",
+			"lemon": "true",
+			"hastings": "true"
+		},
+		"supportingCharacters": [
+			"Ernestine Todd",
+			"Arthur Simpson",
+			"Eliza Dunn",
+			"Purser",
+			"Annie",
+			"Porter",
+			"Mr Cameron",
+			"Speaker",
+			"Mr Todd",
+			"Sergeant",
+			"Constable",
+			"Constable"
+		],
+		"crimes": [
+			{
+				"criminalAct": "Murder",
+				"means": "Blunt instrument",
+				"motive": "Put suspicion on another person at the bank.",
+				"opportunity": "Lunch at his lodgings on Weds with Davis",
+				"perpetrator": "Arthur Simpson",
+				"victim": "Mr. Davis, the bank clerk"
+			},
+			{
+				"criminalAct": "Theft of £90,000 of negotiable securities",
+				"means": "Diverting suspicion to Simpson and stealing them himself",
+				"motive": "Greed",
+				"opportunity": "Simpson had regular access to the securities as a bank employee",
+				"perpetrator": "Arthur Simpson",
+				"victim": "The Belgravia and Overseas Bank"
+			},
+			{
+				"criminalAct": "Fraud",
+				"means": "Posing as an Australian barrister with false inheritance documents.",
+				"motive": "Getting Eliza out of the way to use her trunk to conceal a body",
+				"opportunity": "Simpson had the day off sick",
+				"perpetrator": "Arthur Simpson",
+				"victim": "Eliza Dunn"
+			}
+		]
+	},
+	{
+		"season": 1,
+		"episode": 2,
+		"title": "Murder in the Mews",
+		"episodeSummary": "Poirot's investigation of a victim's life leads him to ask if she was right- or left-handed.  The answer will determine whether the case is one of murder or suicide.",
+		"originalAirDate": "1989-01-15T00:00:00.000Z",
+		"director": "Edward Bennett",
+		"writer": "Clive Exton",
+		"mood": "serious",
+		"tropes": {
+			"hastingsCar": "true",
+			"poirotLenientJudgeAndJury":"true"
+		},
+		"mainCharacters": {
+			"japp": "true",
+			"lemon": "true",
+			"hastings": "true"
+		},
+		"supportingCharacters": [
+			"Jane Plenderleith",
+			"Major Eustace",
+			"Charles Laverton West",
+			"Mrs Pierce",
+			"Div. Inspector Jameson",
+			"Dr Brett",
+			"Golfer",
+			"Barman",
+			"Maid",
+			"Freddie",
+			"Singer"
+		],
+		"crimes": [
+			{
+				"criminalAct": "Attempted murder",
+				"means": "Framing an innocent man of murder",
+				"motive": "Revenge",
+				"opportunity": "Placing incriminating evidence in Mrs. Allen's room which pointed to Major Eustace and made it seem like he was lying about the details of his visit",
+				"perpetrator": "Jane Plenderleith",
+				"victim": "Major Eustace"
+			},
+			{
+				"criminalAct": "Blackmail",
+				"means": "Information about the victim's past",
+				"motive": "Greed",
+				"opportunity": "He learned about the victim's past when they were both living in India.",
+				"perpetrator": "Major Eustace",
+				"victim": "Mrs. Allen"
+			}   
+		]
+	},
+	{
+		"season": 1,
+		"episode": 3,
+		"title": "The Adventure of Johnnie Waverly",
+		"episodeSummary": "Poirot is engaged to prevent the kidnapping of a country squire's son.",
+		"originalAirDate": "1989-01-22T00:00:00.000Z",
+		"director": "Renny Rye",
+		"writer": "Clive Exton",
+		"mood": "light",
+		"tropes": {
+			"poirotLenientJudgeAndJury":"true",
+			"poirotTriesToPreventCrime":"true"
+		},
+		"mainCharacters": {
+			"japp": "true",
+			"lemon": "true",
+			"hastings": "true"
+		},
+		"supportingCharacters": [
+			"Ada Waverly",
+			"Tredwell",
+			"Hughes",
+			"Barmaid",
+			"Johnnie Waverly",
+			"Marcus Waverly",
+			"Jessie Withers",
+			"Miss Collins",
+			"Rogers",
+			"Sergeant",
+			"Constable",
+			"Policeman"
+		],
+		"crimes": [
+			{
+				"criminalAct": "Kidnapping",
+				"means": "Cooperation with others inside the household",
+				"motive": "Greed",
+				"opportunity": "Sneaking the child out with the nurse while everyone was distracted by the commotion in the front",
+				"perpetrator": "Marcus Waverly",
+				"victim": "Johnnie Waverly"
+			}
+		]
+	},
+	{
+		"season": 1,
+		"episode": 4,
+		"title": "Four and Twenty Blackbirds",
+		"episodeSummary": "Poirot and his dentist dine at a restarant and witness a reclusive painter enjoying his last meal.  Poirot's investigation of the murder focuses on why he changed his eating habits.",
+		"originalAirDate": "1989-01-29T00:00:00.000Z",
+		"director": "Renny Rye",
+		"writer": " Russell Murray",
+		"mood": "light",
+		"tropes": {
+			"poirotDentist": "true"
+		},
+		"mainCharacters": {
+			"japp": "true",
+			"lemon": "true",
+			"hastings": "true"
+		},
+		"supportingCharacters": [
+			"George Lorrimer",
+			"Peter Makinson",
+			"Tommy Pinner",
+			"Cutter",
+			"Mrs Hill",
+			"Molly",
+			"Radio Voices",
+			"Doctor",
+			"Edith",
+			"Lavatory Assistant",
+			"Dulcie Lane",
+			"Harry Clarke",
+			"Henry Bonnington",
+			"Irene Mullen",
+			"Stooge",
+			"Forensic",
+			"Vicar",
+			"Pianist"
+		],
+		"crimes": [
+			{
+				"criminalAct": "Murder",
+				"means": "Throwing the victim down the stairs",
+				"motive": "Inherit the deceased's fortune",
+				"opportunity": "Visiting the old man and disguising the time of death",
+				"perpetrator": "George Lorrimer",
+				"victim": "Henry Gascoigne"
+			}
+		]
+	},
+	{
+		"season": 1,
+		"episode": 5,
+		"title": "The Third Floor Flat",
+		"episodeSummary": "Poirot returns from seeing a play to find that the new tennant at Whitehaven Mansions has been murdered.",
+		"originalAirDate": "1989-02-05T00:00:00.000Z",
+		"director": "Edward Bennett",
+		"writer": "Michael Baker",
+		"mood": "light",
+		"tropes": {
+			"hastingsCar": "true",
+			"artImitatesArt": "true",
+			"poirotMatchmaker": "true"
+		},
+		"mainCharacters": {
+			"japp": "true",
+			"lemon": "true",
+			"hastings": "true"
+		},
+		"supportingCharacters": [
+			"Patricia Matthews",
+			"Ernestine Grant",
+			"Removal Man",
+			"Mrs Sadler",
+			"Vicar",
+			"Jimmy Faulkener",
+			"Mildred Hope",
+			"Donovan Bailey",
+			"Major Sadler",
+			"Removal Man",
+			"Police Constable",
+			"Dicker",
+			"Coffee Stall Owner",
+			"Inspector Flint",
+			"Trotter"
+		],
+		"crimes": [
+			{
+				"criminalAct": "Murder",
+				"means": "Pistol",
+				"motive": "Release from marriage when his wife would not grant a divorce so he can marry another woman",
+				"opportunity": "Visiting her apartmet during the day before going to the play",
+				"perpetrator": "Donovan Bailey",
+				"victim": "Ernestine Grant"
+			}
+		]
+	},
+	{
+		"season": 1,
+		"episode": 6,
+		"title": "Triangle at Rhodes",
+		"episodeSummary": "Poirot tries to relax on holiday in Rhodes, keeping a watchful eye on the love-triangle brewing towards murder.",
+		"originalAirDate": "1989-02-12T00:00:00.000Z",
+		"director": "Renny Rye",
+		"writer": "Stephen Wakelam",
+		"mood": "serious",
+		"tropes": {
+			"poirotOnHoliday": "true"
+		},
+		"mainCharacters": {},
+		"supportingCharacters": [
+			"Valentine Chantry",
+			"Marjorie Gold",
+			"Commander Chantry",
+			"Douglas Gold",
+			"Pamela Lyall",
+			"Major Barnes",
+			"Greek Cashier",
+			"Skelton",
+			"Police Inspector",
+			"Italian Policeman",
+			"Purser",
+			"Customs Officer",
+			"Greek Girl",
+			"Dicker",
+			"Hotel Manager",
+			"Good Woman",
+			"Postman"
+		],
+		"crimes": [
+			{
+				"criminalAct": "Murder",
+				"means": "Poison",
+				"motive": "Release from marriage and inherit his wife's fortune",
+				"opportunity": "He poisoned the drink the Douglas Gold gave him in order to incriminate Gold",
+				"perpetrator": "Commander Chantry",
+				"victim": "Valentine Chantry"
+			},
+			{
+				"criminalAct": "Conspiracy and obstruction of justice",
+				"means": "Framing Douglas Gold for murder",
+				"motive": "Divert suspicion away from the real murder suspects",
+				"opportunity": "Poisoning the pink gin that Gold had just given him and giving it to his wife",
+				"perpetrator": "Commander Chantry",
+				"victim": "Douglas Gold"
+			}
+		]
+	},
+	{
+		"season": 1,
+		"episode": 7,
+		"title": "Problem at Sea",
+		"episodeSummary": "When the dislikable fellow passenger Mrs. Clapperton is murdered, Poirot and Hastings investigate during their holiday cruise.",
+		"originalAirDate": "1989-02-19T00:00:00.000Z",
+		"director": "Renny Rye",
+		"writer": "Clive Exton",
+		"mood": "light",
+		"tropes": {
+			"poirotOnHoliday": "true",
+			"bonVoyage": "true",
+			"hastingsLadyPuzzlement":"true",
+			"bridgeGame":"true",
+			"hastingsHobby":"true"
+		},
+		"mainCharacters": {
+			"hastings": "true"
+		},
+		"supportingCharacters": [
+			"Colonel Clapperton",
+			"Adeline Clapperton",
+			"Captain Fowler",
+			"Mr Tolliver",
+			"Mrs Tolliver",
+			"General Forbes",
+			"Ellie Henderson",
+			"Pamela Cregan",
+			"Kitty Mooney",
+			"Kelly Morgan",
+			"Emily Morgan",
+			"Ismene",
+			"Bates",
+			"Skinner",
+			"Photographer",
+			"1st Hawker",
+			"2nd Hawker",
+			"Mr Russell"
+		],
+		"crimes": [
+			{
+				"criminalAct": "Murder",
+				"means": "Knife",
+				"motive": "Release from marriage to his wife who he hated",
+				"opportunity": "Using ventriloquism to disguise the time of death and secure an alibi",
+				"perpetrator": "Colonel Clapperton",
+				"victim": "Adeline Clapperton"
+			}
+		]
+	},
+	{
+		"season": 1,
+		"episode": 8,
+		"title": "The Incredible Theft",
+		"episodeSummary": "Poirot is drawn into international political intrigue when the plans for a new combat aircraft are stolen by a German spy.",
+		"originalAirDate": "1989-02-26T00:00:00.000Z",
+		"director": "Edward Bennett",
+		"writer": "David Reid",
+		"mood": "light",
+		"tropes": {
+			"msLemonsFilingSystem": "true",
+			"poirotTriesToPreventCrime": "true",
+			"poirotLenientJudgeAndJury":"true"
+		},
+		"mainCharacters": {
+			"japp": "true",
+			"lemon": "true",
+			"hastings": "true"
+		},
+		"supportingCharacters": [
+			"Sir George Carrington",
+			"Lady Carrington",
+			"Mrs Vanderlyn",
+			"Lady Mayfield",
+			"Tommy Mayfield",
+			"Carlile",
+			"Chauffeur",
+			"Reggie Carrington",
+			"Sergeant"
+		],
+		"crimes": [
+			{
+				"criminalAct": "Espionage and Theft",
+				"means": "Taking the engineering plans left out on Mayfield's desk",
+				"motive": "Nationalism",
+				"opportunity": "Mayfield intentionally left the plans out for her to steal as a trap",
+				"perpetrator": "Mrs Vanderlyn",
+				"victim": "Great Britain"
+			},
+			{
+				"criminalAct": "Blackmail",
+				"means": "A letter proving that Mayfield sold artillary to the Japanese during an arms embargo",
+				"motive": "Gain leverage over Mayfield to gain access to military secrets",
+				"opportunity": "",
+				"perpetrator": "Mrs Vanderlyn",
+				"victim": "Tommy Mayfield"
+			},
+			{
+				"criminalAct": "Arms trafficking",
+				"means": "Smuggling",
+				"motive": "Greed",
+				"opportunity": "Contacts with the Japanese buyers",
+				"perpetrator": "Tommy Mayfield",
+				"victim": "The Commonwealth"
+			}
+		]
+	},
+	{
+		"season": 1,
+		"episode": 9,
+		"title": "The King of Clubs",
+		"episodeSummary": "Poirot is called in to help when a young actress is caught up in the murder of the head of the studio.",
+		"originalAirDate": "1989-03-12T00:00:00.000Z",
+		"director": "Renny Rye",
+		"writer": "Michael Baker",
+		"mood": "light",
+		"tropes": {
+			"poirotLenientJudgeAndJury": "true",
+			"bridgeGame":"true"
+		},
+		"mainCharacters": {
+			"japp": "true",
+			"hastings": "true"
+		},
+		"supportingCharacters": [
+			"Bunny Saunders",
+			"Valerie Saintclair",
+			"Ralph Walton",
+			"Mrs Oglander",
+			"Ronnie Oglander",
+			"Henry Reedburn",
+			"Geraldine Oglander",
+			"Prince Paul of Maurania",
+			"Maid",
+			"Young Man",
+			"Frampton",
+			"Assistant Director",
+			"Stuntman",
+			"Miss Deloy"
+		],
+		"crimes": [
+			{
+				"criminalAct": "Blackmail",
+				"means": "Knowledge of the Oglander's previous identities and past",
+				"motive": "Gain power and leverage over the young actress",
+				"opportunity": "Research of past newspapers",
+				"perpetrator": "Henry Reedburn",
+				"victim": "Valerie Saintclair"
+			},
+			{
+				"criminalAct": "Manslaughter",
+				"means": "Fist and blunt trauma to the back of the head",
+				"motive": "Protect his sister",
+				"opportunity": "During an argument at Reedburn's home office.",
+				"perpetrator": "Ronnie Oglander",
+				"victim": "Henry Reedburn"
+			}
+		]
+	},
+	{
+		"season": 1,
+		"episode": 10,
+		"title": "The Dream",
+		"episodeSummary": "A wealthy industrialist invites Poirot to a meeting and describes a dream where he shoots himself, then dies the next day under similar circumstances.",
+		"originalAirDate": "1989-03-19T00:00:00.000Z",
+		"director": "Edward Bennett",
+		"writer": "Clive Exton",
+		"mood": "serious",
+		"tropes": {
+			"perpTriesToOutmartPoirot": "true",
+			"hostIsMurdered": "true"
+		},
+		"mainCharacters": {
+			"japp": "true",
+			"lemon": "true",
+			"hastings": "true"
+		},
+		"supportingCharacters": [
+			"Joanna Farley",
+			"Louise Farley",
+			"Benedict Farley",
+			"Hugo Cornworthy",
+			"Newsreel Voice",
+			"Mayor",
+			"Bandmaster",
+			"Fencing Instructor",
+			"Dr John Stillingfleet",
+			"Mr Dicker",
+			"Holmes",
+			"Mr Tremlett",
+			"Workman",
+			"Herbert Chudley",
+			"Workman"
+		],
+		"crimes": [
+			{
+				"criminalAct": "Murder",
+				"means": "Pistol",
+				"motive": "Jealousy and greed.  Killing Farley would allow him to marry the widow Farley and gain Farley's wealth",
+				"opportunity": "Knowing the victim's habit of sticking his head out the window to check for steam coming from the oven chimneys",
+				"perpetrator": "Mr Dicker",
+				"victim": "Benedict Farley"
+			}
+		]
+	},
+	{
+		"season": 2,
+		"episode": 1,
+		"title": "Peril at End House",
+		"episodeSummary": "While on holiday, Poirot meets a young woman who has narrowly escaped three deadly accidents.  When he discovers a bullet hole in her hat, he vows to prevent her murder.",
+		"originalAirDate": "1990-01-07T00:00:00.000Z",
+		"director": "Renny Rye",
+		"writer": "Clive Exton",
+		"mood": "light",
+		"tropes": {
+			"poirotOnHoliday": "true",
+			"poirotTriesToPreventMurder": "true",
+			"poirotAvuncular": "true",
+			"msLemonSupernatural": "true",
+			"poirotCompulsiveSymmetry": "true"
+		},
+		"mainCharacters": {
+			"japp": "true",
+			"lemon": "true",
+			"hastings": "true"
+		},
+		"supportingCharacters": [
+			"Nick Buckley",
+			"Mildred Croft",
+			"Bert Croft",
+			"Nurse Andrews",
+			"Inspector",
+			"Commander George Challenger",
+			"Frederica Rice",
+			"Jim Lazarus",
+			"Charles Vyse",
+			"Ellen Wilson",
+			"Wilson",
+			"Alfred Wilson",
+			"Maggie Buckley",
+			"Dr Graham",
+			"Hotel Receptionist",
+			"Hood",
+			"Maid",
+			"Pageboy"
+		],
+		"crimes": [
+			{
+				"criminalAct": "Inheritance Fraud",
+				"means": "Forging a will",
+				"motive": "Greed.  Inherit a fortune",
+				"opportunity": "Access to an old copy of a real will that Nick Buckley wrote and they witnessed",
+				"perpetrator": "Mildred Croft and Bert Croft",
+				"victim": "Nick Buckley's estate"
+			},
+			{
+				"criminalAct": "Identity Fraud",
+				"means": "Nick's real name is also Magdala, and she stole the love letters from Matthew Seton that were originally addresses to her cousin of the same name",
+				"motive": "Greed.  Inherit the fortune left to her cousin in Matthew Seton's will",
+				"opportunity": "Inviting her cousin to stay at End House periodically",
+				"perpetrator": "Nick Buckley",
+				"victim": "Maggie Buckley"
+			},
+			{
+				"criminalAct": "Murder",
+				"means": "Pistol",
+				"motive": "Get her cousin out of the way and assume her identity",
+				"opportunity": "A few moments alone with her cousin while heading to the house, and using the popping sounds of the fireworks to disguise the shot",
+				"perpetrator": "Nick Buckley",
+				"victim": "Maggie Buckley"
+			},
+			{
+				"criminalAct": "Drug trafficking",
+				"means": "Speedboat",
+				"motive": "Greed",
+				"opportunity": "Maritime background and frequent outings on the water",
+				"perpetrator": "Commander George Challenger",
+				"victim": "The Commonwealth"
+			}
+		]
+	},
+	{
+		"season": 2,
+		"episode": 2,
+		"title": "The Veiled Lady",
+		"episodeSummary": "Poirot becomes a cat burglar to recover a letter being used for blackmail and becomes entwined in a jewel-theft case.",
+		"originalAirDate": "1990-01-14T00:00:00.000Z",
+		"director": "Edward Bennett",
+		"writer": "Clive Exton",
+		"mood": "light",
+		"tropes": {
+			"hastingsSmitten": "true",
+			"poirotCommitsCrime": "true",
+			"perpTriesToOutmartPoirot":"true"
+		},
+		"mainCharacters": {
+			"japp": "true",
+			"lemon": "true",
+			"hastings": "true"
+		},
+		"supportingCharacters": [
+			"Lady Millicent Castle-Vaughan",
+			"Mrs Godber",
+			"Museum Guard",
+			"Mr Lavington",
+			"Sergeant",
+			"Constable",
+			"Museum Guard",
+			"Brass Band",
+			"Joey Weatherly"
+		],
+		"crimes": [
+			{
+				"criminalAct": "Armed robbery",
+				"means": "Pistol and then handing the stolen goods to Lavington during a false citizen's arrest",
+				"motive": "Greed",
+				"opportunity": "Inside information about the inventory from a blackmailer, and then hitting the jewelery shop during business hours",
+				"perpetrator": "Gertie and Joey Weatherly",
+				"victim": "Burling Arcade Jewelery shop"
+			},
+			{
+				"criminalAct": "Breaking and entering",
+				"means": "Compromised locks",
+				"motive": "Recover the letter being used to blackmail Lady Millicent",
+				"opportunity": "Posing as a tradesman and installing compromised security and locks",
+				"perpetrator": "Hercule Poirot",
+				"victim": "Mr Lavington"
+			},
+			{
+				"criminalAct": "Murder",
+				"means": "Blunt trauma",
+				"motive": "Get Lavington out of the way and steal back the jewels",
+				"opportunity": "Lavington's holiday in Holland",
+				"perpetrator": "Gertie and Joey Weatherly's associates in Holland",
+				"victim": "Mr Lavington"
+			}  
+		]
+	},
+	{
+		"season": 2,
+		"episode": 3,
+		"title": "The Lost Mine",
+		"episodeSummary": "When a man carrying a map to a lost silver mine is found murdered in Chinatown, the trail leads Poirot to London's underground opium dens.",
+		"originalAirDate": "1990-01-21T00:00:00.000Z",
+		"director": "Edward Bennet",
+		"writer": "Michael Baker",
+		"mood": "light",
+		"tropes": {
+			"perpTriesToOutmartPoirot": "true",
+			"poirotCompulsiveSymmetry": "true"
+		},
+		"mainCharacters": {
+			"japp": "true",
+			"lemon": "true",
+			"hastings": "true"
+		},
+		"supportingCharacters": [
+			"Lord Pearson",
+			"Reggie Dyer",
+			"Charles Lester",
+			"Lobby Clerk",
+			"Bank Teller",
+			"Restaurant Manager",
+			"First Officer",
+			"Chow Feng",
+			"Mrs Lester",
+			"Miss Devenish",
+			"Sergeant Jameson",
+			"Chinaman",
+			"Second Officer",
+			"Oriental Gentleman",
+			"Chinese Tart",
+			"Wilkins"
+		],
+		"crimes": [
+			{
+				"criminalAct": "Murder",
+				"means": "Knife",
+				"motive": "Stealing the map in his posession",
+				"opportunity": "Meeting Wu Ling at the port when he arrived from China",
+				"perpetrator": "Lord Pearson",
+				"victim": "Wu Ling"
+			},
+			{
+				"criminalAct": "Theft of the map to the lost silver mine",
+				"means": "Killing Wu Lin and taking it",
+				"motive": "Greed",
+				"opportunity": "Meeting Wu Ling at the port when he arrived from China",
+				"perpetrator": "Lord Pearson",
+				"victim": "Wu Ling"
+			},
+			{
+				"criminalAct": "Conspiracy and obstruction of justice",
+				"means": "Framing a victim for murder",
+				"motive": "To throw the police off the trail of the real murder",
+				"opportunity": "Posing as Wu Ling and planting evidence in the victim's hotel room, and then drugging the victim and leaving him at the crime scene.",
+				"perpetrator": "Lord Pearson",
+				"victim": "Charles Lester"
+			}
+		]
+	},
+	{
+		"season": 2,
+		"episode": 4,
+		"title": "The Cornish Mystery",
+		"episodeSummary": "A woman confides to Poirot that she fears her husband is poisoning her.  Poirot acts too late to prevent tragedy and then investigates her murder, as the inquest puts her husband on trial.",
+		"originalAirDate": "1990-01-28T00:00:00.000Z",
+		"director": "Edward Bennett",
+		"writer": "Clive Exton",
+		"mood": "light",
+		"tropes": {
+			"poirotTriesToPreventMurder": "true",
+			"hastingsSmitten": "true",
+			"hostIsMurdered": "true"
+		},
+		"mainCharacters": {
+			"japp": "true",
+			"lemon": "true",
+			"hastings": "true"
+		},
+		"supportingCharacters": [
+			"Freda Stanton",
+			"Jacob Radnor",
+			"Edward Pengelley",
+			"Alice Pengelley",
+			"Jessie Dawlish",
+			"Dr Adams",
+			"Prosecutor",
+			"Mr Newsom",
+			"Edwina Marks",
+			"Judge",
+			"Landlady",
+			"Solicitor",
+			"Vicar",
+			"Policeman"
+		],
+		"crimes": [
+			{
+				"criminalAct": "Murder",
+				"means": "Poison",
+				"motive": "Getting both parents out of the way so his wife would inherit their fortune",
+				"opportunity": "Access to the victim's meals",
+				"perpetrator": "Jacob Radnor",
+				"victim": "Alice Pengelley"
+			},
+			{
+				"criminalAct": "Conspiracy, perjury, and obstruction of justice",
+				"means": "Framing Edward Pengelley for murder",
+				"motive": "Getting both parents out of the way so his wife would inherit their fortune",
+				"opportunity": "Testifying in court that he saw Pengelley with rat poison in hand when preparing his wife's meal",
+				"perpetrator": "Jacob Radnor",
+				"victim": "Edward Pengelley"
+			}
+		]
+	},
+	{
+		"season": 2,
+		"episode": 5,
+		"title": "The Disappearance of Mr. Davenheim",
+		"episodeSummary": "When a wealthy banker disappears, Poirot bets Japp that he can solve the case without leaving his flat. ",
+		"originalAirDate": "1990-02-04T00:00:00.000Z",
+		"director": "Andrew Grieve",
+		"writer": "David Renwick",
+		"mood": "light",
+		"tropes": {
+			"hastingsCar":"true",
+			"frenchVsEnglishCuisine":"true",
+			"poirotIsReallyBelgian":"true"
+		},
+		"mainCharacters": {
+			"japp": "true",
+			"lemon": "true",
+			"hastings": "true"
+		},
+		"supportingCharacters": [
+			"Charlotte Davenheim",
+			"Matthew Davenheim",
+			"Merritt",
+			"Sergeant",
+			"Illusionist",
+			"Gerald Lowen",
+			"Maid",
+			"Policeman",
+			"Mechanic",
+			"Chief Engineer",
+			"Man Delivering Parrot"
+		],
+		"crimes": [
+			{
+				"criminalAct": "Embezzlement",
+				"means": "Converting the funds into jewels and gems",
+				"motive": "Greed",
+				"opportunity": "Access to bank funds",
+				"perpetrator": "Matthew Davenheim",
+				"victim": "Bank of Davenheim and Selmon"
+			},
+			{
+				"criminalAct": "Obstruction of justice and making false statements to police",
+				"means": "Police lineup",
+				"motive": "Frame Gerald Lowen for murder",
+				"opportunity": "Posing as Billy Kellet and singling out Lowen in a lineup",
+				"perpetrator": "Matthew Davenheim",
+				"victim": "Gerald Lowen"
+			}
+		]
+	},
+	{
+		"season": 2,
+		"episode": 6,
+		"title": "Double Sin",
+		"episodeSummary": "When a young woman's delivery of antique miniatures is stolen, Hastings takes the case while Poirot sits back and ponders retirement.",
+		"originalAirDate": "1990-02-11T00:00:00.000Z",
+		"director": "Richard Spence",
+		"writer": "Clive Exton",
+		"mood": "light",
+		"tropes": {
+			"poirotOnHoliday": "true",
+			"hastingsSmitten": "true",
+			"poirotRetirement": "true",
+			"poirotCompulsiveSymmetry":"true",
+			"msLemonOrderAndMethod":"true"
+		},
+		"mainCharacters": {
+			"japp": "true",
+			"lemon": "true",
+			"hastings": "true"
+		},
+		"supportingCharacters": [
+			"Elizabeth Penn",
+			"Mary Durant",
+			"Hotel Receptionist",
+			"Billy Arkwright",
+			"J. Baker Wood",
+			"Norton Kane",
+			"Lady Amanda Manderley",
+			"Sergeant Vinney",
+			"PC Flagg",
+			"Landlady",
+			"Dicker",
+			"Speedy Tours Representative",
+			"Pianist",
+			"Second Urchin",
+			"First Urchin"
+		],
+		"crimes": [
+			{
+				"criminalAct": "Fraud and making false statements to police",
+				"means": "Disguising herself and selling the miniatures to Kane but then using Mary's trip to claim they were stolen",
+				"motive": "Greed",
+				"opportunity": "Mary's trip to see the client and a train ride to meet the client herself",
+				"perpetrator": "Elizabeth Penn and Mary Durant",
+				"victim": "Norton Kane"
+			}
+		]
+	},
+	{
+		"season": 2,
+		"episode": 7,
+		"title": "The Adventure of the Cheap Flat",
+		"episodeSummary": "Poirot and Japp help an FBI agent track a Mafia member carrying stolen, secret Navy plans, and a young couple's rental of a cheap flat draws them into the intrigue",
+		"originalAirDate": "1990-02-18T00:00:00.000Z",
+		"director": "Richard Spence",
+		"writer": "Russell Murray",
+		"mood": "serious",
+		"tropes": {
+			"poirotCommitsCrime": "true",
+			"msLemonOrderAndMethod": "true",
+			"poirotCompulsiveSymmetry":"true"
+		},
+		"mainCharacters": {
+			"japp": "true",
+			"lemon": "true",
+			"hastings": "true"
+		},
+		"supportingCharacters": [
+			"Stella Robinson",
+			"James Robinson",
+			"FBI Agent Burt Macklin",
+			"Luigi Valdarno",
+			"Mr Paul",
+			"Records Agent",
+			"Carla Romero",
+			"Teddy Parker",
+			"Bernie Cole",
+			"Elsie",
+			"Mafia Assassin",
+			"Romero's Husband"
+		],
+		"crimes": [
+			{
+				"criminalAct": "Espionage",
+				"means": "Stealing Navy documents",
+				"motive": "In love with Carla Romero",
+				"opportunity": "As a clerk he had internal access to Navy documents",
+				"perpetrator": "Luigi Valdarno",
+				"victim": "United States Department of the Navy"
+			},
+			{
+				"criminalAct": "Murder",
+				"means": "Pistol",
+				"motive": "Steal the stolen Navy documents",
+				"opportunity": "Setting a fake meeting with a buyer for the documents which was a trap",
+				"perpetrator": "Carla Romero",
+				"victim": "Luigi Valdarno"
+			},
+			{
+				"criminalAct": "Breaking and entering",
+				"means": "Loosening the screw on the bolt for the rear-access garbage bin doors",
+				"motive": "Stop the assassin targeting the Robinsons",
+				"opportunity": "Distracting the couple and reinstalling the loose bolt latch.",
+				"perpetrator": "Hercule Poirot",
+				"victim": "James Robinson and Stella Robinson"
+			},
+			{
+				"criminalAct": "Breaking and entering",
+				"means": "Lockpick",
+				"motive": "Assassinate the Robinsons",
+				"opportunity": "Waiting until night and breaking in.",
+				"perpetrator": "Mafia Assassin",
+				"victim": "James Robinson and Stella Robinson"
+			}
+		]
+	},
+	{
+		"season": 2,
+		"episode": 8,
+		"title": "The Kidnapped Prime Minister",
+		"episodeSummary": "The Prime Minister is kidnapped en route to a vital meeting at the League of Nations.  The trail leads to France, but Poirot refuses to go, convinced the answer to the case is on the English side of the Channel.",
+		"originalAirDate": "1990-02-25T00:00:00.000Z",
+		"director": "Andrew Grieve",
+		"writer": "Clive Exton",
+		"mood": "serious",
+		"tropes": {
+			"hastingsCar":"true",
+			"hastingsCar":"true"
+		},
+		"mainCharacters": {
+			"japp": "true",
+			"lemon": "true",
+			"hastings": "true"
+		},
+		"supportingCharacters": [
+			"Lord Estair",
+			"Sir Bernard Dodge",
+			"Commander Daniels",
+			"Imogen Daniels",
+			"Transport Superintendent",
+			"Mr Fingler",
+			"Shi Mong",
+			"John Egan",
+			"Street Urchin",
+			"Street Urchin",
+			"Sergeant Hopper",
+			"Egan's Landlady",
+			"Major Norman",
+			"Prime Minister McAdam"
+		],
+		"crimes": [
+			{
+				"criminalAct": "Conspiracy and Espionage",
+				"means": "Kidnapping the Prime Minister",
+				"motive": "Allow Germany to rearm and weaken Britain's position, securing independence for Ireland",
+				"opportunity": "Inside co-conspirator as the Prime Minister's assistant",
+				"perpetrator": "Imogen Daniels",
+				"victim": "Great Britain"
+			},
+			{
+				"criminalAct": "Kidnapping",
+				"means": "Faking the kidnapping location in France and throwing the investigation off the trail",
+				"motive": "Abetting the conspiracy to keep the Prime Minister away from the League of Nations meeting",
+				"opportunity": "Inside co-conspirator as the Prime Minister's assistant",
+				"perpetrator": "Commander Daniels",
+				"victim": "Prime Minister McAdam"
+			}
+		]
+	},
+	{
+		"season": 2,
+		"episode": 9,
+		"title": "The Adventure of the Western Star",
+		"episodeSummary": "Poirot investigates when two fabulous diamonds, the Eastern and Western Star, are stolen.",
+		"originalAirDate": "1990-03-04T00:00:00.000Z",
+		"director": "Richard Spence",
+		"writer": "Clive Exton",
+		"mood": "light",
+		"tropes": {
+			"poirotTriesToPreventCrime": "true",
+			"poirotCompulsiveSymmetry":"true",
+			"poirotLenientJudgeAndJury":"true",
+			"frenchVsEnglishCuisine":"true",
+			"hastingsLadyPuzzlement":"true"
+		},
+		"mainCharacters": {
+			"japp": "true",
+			"lemon": "true",
+			"hastings": "true"
+		},
+		"supportingCharacters": [
+			"Lady Yardly",
+			"Marie Marvelle",
+			"Gregorie Rolf",
+			"Henrik Van Braks",
+			"Mullings",
+			"Mr Hoffberg",
+			"Sergeant",
+			"Steward",
+			"Lord Yardly",
+			"Inspector Dougall",
+			"Hotel Receptionist"
+		],
+		"crimes": [
+			{
+				"criminalAct": "Blackmail and Extortion",
+				"means": "Posession of letters proving infidelity",
+				"motive": "Greed and desire to possess the Eastern Star diamond",
+				"opportunity": "An indiscreet relationship between the two of them",
+				"perpetrator": "Gregorie Rolf",
+				"victim": "Lady Yardly"
+			},
+			{
+				"criminalAct": "Making false statements to police and Insurance Fraud",
+				"means": "Stealing his own diamond",
+				"motive": "Greed",
+				"opportunity": "Disguising himself as a Chinaman and staging the theft",
+				"perpetrator": "",
+				"victim": ""
+			},
+			{
+				"criminalAct": "Aiding and abetting",
+				"means": "Acting as broker in a stolen property deal",
+				"motive": "Greed",
+				"opportunity": "Connecting the two clients in the deal",
+				"perpetrator": "Mr Hoffberg",
+				"victim": "The Commonwealth"
+			}   
+		]
+	},
+	{
+		"season": 3,
+		"episode": 1,
+		"title": "The Mysterious Affair at Styles",
+		"episodeSummary": "Hastings recuperates from a war injury at Styles and happens to meet up with Poirot, who has settled there as a refugee.  When the lady of the house is murdered, Hastings asks Poirot for help with the case.",
+		"originalAirDate": "1990-09-16T00:00:00.000Z",
+		"director": "Ross Devenish",
+		"writer": "Clive Exton",
+		"mood": "light",
+		"tropes": {
+			"hastingsSmitten": "true",
+			"hostIsMurdered": "true",
+			"poirotCompulsiveSymmetry": "true",
+			"hastingsLadyPuzzlement":"true"
+		},
+		"mainCharacters": {
+			"japp": "true",
+			"hastings": "true"
+		},
+		"supportingCharacters": [
+			"Mrs Emily Inglethorp",
+			"Alfred Inglethorp",
+			"Mary Cavendish",
+			"John Cavendish",
+			"Lawrence Cavendish",
+			"Evelyn Howard",
+			"Cynthia Murdoch",
+			"Wells",
+			"Phillips",
+			"Vicar",
+			"Tindermans",
+			"Dr Wilkins",
+			"Mrs Raikes",
+			"Dorcas",
+			"Judge",
+			"Edwin Mace",
+			"Summerhaye",
+			"Chemist",
+			"Nurse",
+			"Mrs Dainty",
+			"Army Officer",
+			"Hire Car Driver",
+			"Clerk of the Court",
+			"Foreman of the Jury",
+			"Soldier"
+		],
+		"crimes": [
+			{
+				"criminalAct": "Murder",
+				"means": "Poison (strychnine)",
+				"motive": "Greed.  Inherit the fortune of the deceased",
+				"opportunity": "Putting the sleeping poweders into the sleeping draft, and the bromide precipitated the strychnine to the bottom in a final, fatal dose",
+				"perpetrator": "Alfred Inglethorp",
+				"victim": "Mrs Emily Inglethorp"
+			}
+		]
+	},
+	{
+		"season": 3,
+		"episode": 2,
+		"title": "How Does Your Garden Grow?",
+		"episodeSummary": "At a flower show where a rose is being named after him, Poirot receives a mysterious, empty seed-packet from an elderly woman.  After discovering he has received a letter from the same woman, Poirot decides to visit her home, only to find that she has been murdered.",
+		"originalAirDate": "1991-01-06T00:00:00.000Z",
+		"director": "Brian Farnham",
+		"writer": "Andrew Marshall",
+		"mood": "light",
+		"tropes": {
+			"msLemonsFilingSystem": "true",
+			"hostIsMurdered": "true",
+			"msLemonOrderAndMethod":"true"
+		},
+		"mainCharacters": {
+			"japp": "true",
+			"lemon": "true",
+			"hastings": "true"
+		},
+		"supportingCharacters": [
+			"Katrina Reiger",
+			"Amelia Barrowby",
+			"Mary Delafontaine",
+			"Henry Delafontaine",
+			"Nicholai",
+			"Pathologist",
+			"Mr Harrison",
+			"Mr Trumper",
+			"Lucy",
+			"Dr Sims",
+			"Photographer",
+			"Police Constable"
+		],
+		"crimes": [
+			{
+				"criminalAct": "Murder",
+				"means": "Poison (strychnine)",
+				"motive": "Greed.  Inherit.",
+				"opportunity": "Adding the poison to her favourite food, oysters",
+				"perpetrator": "Mary Delafontaine",
+				"victim": "Amelia Barrowby"
+			},
+			{
+				"criminalAct": "Forgery and Identity Theft",
+				"means": "Forging letters to Barrowby's accountant to move into high risk stock",
+				"motive": "Greed",
+				"opportunity": "Access to the victim's real hand-written letters for copying",
+				"perpetrator": "Henry and Mary Delafontaine",
+				"victim": "Amelia Barrowby"
+			}
+		]
+	},
+	{
+		"season": 3,
+		"episode": 3,
+		"title": "The Million Dollar Bond Robbery",
+		"episodeSummary": "One million dollars in Liberty Bonds are stolen when Poirot and Hastings board the H.M.S. Queen Mary to accompany delivery of the bonds to New York.",
+		"originalAirDate": "1991-01-13T00:00:00.000Z",
+		"director": "Andrew Grieve",
+		"writer": "Anthony Horowitz",
+		"mood": "light",
+		"tropes": {
+			"poirotTriesToPreventCrime": "true",
+			"hastingsCar": "true",
+			"hastingsSmitten": "true",
+			"bonVoyage": "true",
+			"hastingsLadyPuzzlement":"true"
+		},
+		"mainCharacters": {
+			"lemon": "true",
+			"hastings": "true"
+		},
+		"supportingCharacters": [
+			"Mr Vavasour",
+			"Mr Shaw",
+			"Philip Ridgeway",
+			"Esmee Dalgleish",
+			"Mr McNeil",
+			"Hood",
+			"Newsreader",
+			"Police Officer",
+			"Nurse Long",
+			"Miranda Brooks",
+			"Flower Seller",
+			"Tom Franklin",
+			"Spivvy Passenger",
+			"Chief Purser"
+		],
+		"crimes": [
+			{
+				"criminalAct": "Theft",
+				"means": "Stealing the bonds before the voyage",
+				"motive": "Greed",
+				"opportunity": "Possession of one of the keys to the portmanteau and putting fake bonds into it",
+				"perpetrator": "Mr Shaw",
+				"victim": "The London and Scottish Bank"
+			},
+			{
+				"criminalAct": "Conspiracy and obstruction of justice",
+				"means": "Framing an innocent man for the crime",
+				"motive": "Divert suspicion away from the real theft",
+				"opportunity": "Stealing the real bonds before the voyage and dropping the fake bonds into the ocean after getting Ridgeway to take the place of Shaw after 2 fake murder attempts",
+				"perpetrator": "Miranda Brooks",
+				"victim": "Phillip Ridgeway"
+			}
+		]
+	},
+	{
+		"season": 3,
+		"episode": 4,
+		"title": "The Plymouth Express",
+		"episodeSummary": "An Australian businessman convinces Poirot to investigate the suitor courting his daughter, but the background investigation turns into an intrigue-filled murder case.",
+		"originalAirDate": "1991-01-20T00:00:00.000Z",
+		"director": "Andrew Piddington",
+		"writer": "Rod Beacham",
+		"mood": "serious",
+		"tropes": {
+			"msLemonsFilingSystem": "true",
+			"bonVoyage": "true",
+			"poirotIsReallyBelgian":"true"
+		},
+		"mainCharacters": {
+			"japp": "true",
+			"lemon": "true",
+			"hastings": "true"
+		},
+		"supportingCharacters": [
+			"Rupert Carrington",
+			"Florence Carrington",
+			"Jane Mason",
+			"Gordon Halliday",
+			"Mr McKenzie",
+			"Newsboy",
+			"Detective",
+			"Armand de la Rochefort",
+			"Bank Manager",
+			"Porter",
+			"Naval Officer",
+			"Reception Clerk",
+			"Barman",
+			"Sergeant",
+			"Station Official"
+		],
+		"crimes": [
+			{
+				"criminalAct": "Murder",
+				"means": "Knife",
+				"motive": "Steal Florence Carrington's jewels",
+				"opportunity": "She was traveling alone and he went to her compartment as the train neared Bristol",
+				"perpetrator": "Mr McKenzie",
+				"victim": "Florence Carrington"
+			},
+			{
+				"criminalAct": "Conspiracy",
+				"means": "Impersonating the victim so that the time of death would be ",
+				"motive": "Steal Florence Carrington's jewels",
+				"opportunity": "Wearing the same clothes as the victim and riding on the train with her ready to take her place after the murder",
+				"perpetrator": "Jane Mason",
+				"victim": "Florence Carrington"
+			},
+			{
+				"criminalAct": "Market manipulation",
+				"means": "Spreading rumors about the Yellow Creek Mining company that a geologist report would be unfavourable",
+				"motive": "Greed",
+				"opportunity": "Bringing £20,000 in bearer bonds to England as security to buy shares at the low price and sell them when the real report came out",
+				"perpetrator": "Armand de la Rochefort",
+				"victim": "The Commonwealth"
+			}
+		]
+	},
+	{
+		"season": 3,
+		"episode": 5,
+		"title": "Wasps' Nest",
+		"episodeSummary": "Poirot tries to prevent a murder after he sees clues to a plot forming at a garden party.",
+		"originalAirDate": "1991-01-27T00:00:00.000Z",
+		"director": "Brian Farnham",
+		"writer": "David Renwick",
+		"mood": "light",
+		"tropes": {
+			"poirotTriesToPreventMurder": "true",
+			"hastingsHobby":"true"
+		},
+		"mainCharacters": {
+			"japp": "true",
+			"lemon": "true",
+			"hastings": "true"
+		},
+		"supportingCharacters": [
+			"John Harrison",
+			"Claude Langton",
+			"Dr Belvedere",
+			"Commere at Fashion Show",
+			"Model Girl",
+			"Molly Deane",
+			"Mrs Henderson",
+			"Waiter"
+		],
+		"crimes": [
+			{
+				"criminalAct": "Attempted Murder",
+				"means": "Framing Claude Langton for murder ",
+				"motive": "Revenge",
+				"opportunity": "Commiting suicide with poison in his own tea after having Langton over to kill wasps with the same poison",
+				"perpetrator": "John Harrison",
+				"victim": "Claude Langton"
+			}
+		]
+	},
+	{
+		"season": 3,
+		"episode": 6,
+		"title": "The Tragedy at Marsdon Manor",
+		"episodeSummary": "When advising a murder-mystery author who has written himself into a corner, a real murder occurs in a nearby manor, and Poirot is called to investigate.",
+		"originalAirDate": "1991-02-03T00:00:00.000Z",
+		"director": "Renny Rye",
+		"writer": "David Renwick",
+		"mood": "light",
+		"tropes": {
+			"artImitatesArt": "true"
+		},
+		"mainCharacters": {
+			"japp": "true",
+			"hastings": "true"
+		},
+		"supportingCharacters": [
+			"Samuel Naughton",
+			"Jonathan Maltravers",
+			"Captain Black",
+			"Dr Bernard",
+			"Danvers",
+			"Newsreader",
+			"Civil Defence Organiser",
+			"Museum Attendant",
+			"Miss Rawlinson",
+			"Susan Maltravers",
+			"Doctor's Receptionist",
+			"Police Sergeant"
+		],
+		"crimes": [
+			{
+				"criminalAct": "Murder",
+				"means": "Rook rifle",
+				"motive": "Greed.  Collect on the life insurance policy of her husband",
+				"opportunity": "Using her husband's poor health and the superstitious fright of the local legend, knowing it would be unlikely that the coroner would find the tiny wound from the rook rifle ",
+				"perpetrator": "Susan Maltravers",
+				"victim": "Jonathan Maltravers"
+			}
+		]
+	},
+	{
+		"season": 3,
+		"episode": 7,
+		"title": "The Double Clue",
+		"episodeSummary": "Poirot tracks a high-profile jewel thief and becomes enchanted with the beautiful Russian Countess Vera Rossakoff.",
+		"originalAirDate": "1991-02-10T00:00:00.000Z",
+		"director": "Renny Rye",
+		"writer": "David Renwick",
+		"mood": "serious",
+		"tropes": {
+			"poirotLenientJudgeAndJury": "true",
+			"poirotSmitten": "true",
+			"hastingsCar":"true",
+			"hastingsSolvesCase":"true"
+		},
+		"mainCharacters": {
+			"japp": "true",
+			"lemon": "true",
+			"hastings": "true"
+		},
+		"supportingCharacters": [
+			"Countess Vera Rossakoff",
+			"Lady Beatrice Runcorn",
+			"Bernard Parker",
+			"Marcus Hardman",
+			"Mr Johnstone",
+			"Katherine Bird",
+			"Constable",
+			"Receptionist",
+			"Blake",
+			"Redfern",
+			"Porter",
+			"Nacora"
+		],
+		"crimes": [
+			{
+				"criminalAct": "Theft",
+				"means": "Acid in the safe lock",
+				"motive": "Greed",
+				"opportunity": "Sneaking away from the performance during the party",
+				"perpetrator": "Countess Vera Rossakoff",
+				"victim": "Marcus Hardman"
+			}
+		]
+	},
+	{
+		"season": 3,
+		"episode": 8,
+		"title": "The Mystery of the Spanish Chest",
+		"episodeSummary": "A jealous husband is found murdered inside a Spanish chest after a party, and the beautiful widow becomes the prime suspect.",
+		"originalAirDate": "1991-02-17T00:00:00.000Z",
+		"director": "Andrew Grieve",
+		"writer": "Anthony Horowitz",
+		"mood": "serious",
+		"tropes": {
+			"msLemonsFilingSystem":"true"
+		},
+		"mainCharacters": {
+			"japp": "true",
+			"hastings": "true"
+		},
+		"supportingCharacters": [
+			"Edward Clayton",
+			"Marguerite Clayton",
+			"Major Rich",
+			"Colonel Curtiss",
+			"Gilda",
+			"Burgoyne",
+			"Rigoletto",
+			"Umpire",
+			"Lady Chatterton",
+			"Reporter",
+			"Doctor",
+			"Party Dancer",
+			"Reporter",
+			"Young Officer",
+			"Rouse",
+			"Smithy",
+			"Maid",
+			"Party Dancer"
+		],
+		"crimes": [
+			{
+				"criminalAct": "Murder",
+				"means": "Stiletto",
+				"motive": "Jealousy.  To removal all potential rivals for Marguerite Clayton's affection",
+				"opportunity": "Convince Clayton to hide in the chest during the party to spy on his wife and then stab him through the eye with the stiletto",
+				"perpetrator": "Colonel Curtiss",
+				"victim": "Edward Clayton"
+			},
+			{
+				"criminalAct": "Obstruction of justice",
+				"means": "Frame Major Rich for the murder",
+				"motive": "Jealousy.  To remove all potential rivals for Marguerite Clayton's affection",
+				"opportunity": "Convince Clayton to hide in the chest curing the party to spy on his wife and then stab him through the eye with the stiletto",
+				"perpetrator": "Colonel Curtiss",
+				"victim": "Major Rich"
+			}
+		]
+	},
+	{
+		"season": 3,
+		"episode": 9,
+		"title": "The Theft of the Royal Ruby",
+		"episodeSummary": "An Egyptian Prince's ruby is stolen, and Poirot secretly tracks the thief while on Christmas holiday.",
+		"originalAirDate": "1991-02-24T00:00:00.000Z",
+		"director": "Andrew Grieve",
+		"writer": "Anthony Horowitz",
+		"mood": "light",
+		"tropes": {
+			"christmasSpecial": "true"
+		},
+		"mainCharacters": {},
+		"supportingCharacters": [
+			"Mrs Lacey",
+			"Colonel Lacey",
+			"Sarah Lacey",
+			"Gloria Lee-Wortley",
+			"Iris Moffatt",
+			"Colin",
+			"Head Waiter",
+			"Mr Dupre",
+			"Desmond Lee-Wortley",
+			"Prince Farouq",
+			"Michael",
+			"Jesmond",
+			"Peverill",
+			"Durbridge",
+			"David Welwyn",
+			"Parsloe",
+			"Mrs Ross",
+			"Annie Bates",
+			"Bridget",
+			"Waiter"
+		],
+		"crimes": [{
+			"criminalAct": "Theft",
+			"means": "Deceiving the Prince and stealing the jewel",
+			"motive": "Greed",
+			"opportunity": "Posing as a date for the Prince",
+			"perpetrator": "Glora Lee-Wortley and Desmon Lee-Wortley",
+			"victim": ""
+		}
+	]
+	},
+	{
+		"season": 3,
+		"episode": 10,
+		"title": "The Affair at the Victory Ball",
+		"episodeSummary": "A pall is cast over the Victory Ball when two of the costumed revelers wind up dead, but Poirot unmasks the murderer.",
+		"originalAirDate": "1991-03-03T00:00:00.000Z",
+		"director": "Renny Rye",
+		"writer": "Andrew Marshall",
+		"mood": "serious",
+		"tropes": {},
+		"mainCharacters": {
+			"japp": "true",
+			"lemon": "true",
+			"hastings": "true"
+		},
+		"supportingCharacters": [
+			"Chris Davidson",
+			"Coco Courtney",
+			"James Ackerly",
+			"BBC Announcer",
+			"Viscount Cronshaw",
+			"Mrs Davidson",
+			"Mrs Mallaby",
+			"Eustace Beltane",
+			"Second Actor",
+			"Butler",
+			"Receptionist"
+		],
+		"crimes": [
+			{
+				"criminalAct": "Murder",
+				"means": "Cocaine overdose",
+				"motive": "Avoid being exposed as a drug trafficker",
+				"opportunity": "Giving her the dose on the taxi ride to her home",
+				"perpetrator": "Chris Davidson",
+				"victim": "Coco Courtney"
+			},
+			{
+				"criminalAct": "Murder",
+				"means": "Knife",
+				"motive": "Avoid being exposed as a drug trafficker",
+				"opportunity": "A moment alone with Cronshaw during the party",
+				"perpetrator": "Chris Davidson",
+				"victim": "Viscount Cronshaw"
+			},
+			{
+				"criminalAct": "Drug trafficking",
+				"means": "Selling cocaine",
+				"motive": "Greed",
+				"opportunity": "Contacts with customers",
+				"perpetrator": "Chris Davidson",
+				"victim": "The Commonwealth"
+			}
+		]
+	},
+	{
+		"season": 3,
+		"episode": 11,
+		"title": "The Mystery of Hunter's Lodge",
+		"episodeSummary": "Poirot and Hastings attend a grouse-shooting, only to be drawn into an investigation when their host is murdered later that night.",
+		"originalAirDate": "1991-03-10T00:00:00.000Z",
+		"director": "Renny Rye",
+		"writer": "TR Bowen",
+		"mood": "light",
+		"tropes": {
+			"hostIsMurdered": "true"
+		},
+		"mainCharacters": {
+			"japp": "true",
+			"hastings": "true"
+		},
+		"supportingCharacters": [
+			"Harrington Pace",
+			"Roger Havering",
+			"Mrs Middleton",
+			"Jack Stoddard",
+			"Ellie",
+			"Constable Cooke",
+			"Zoe Havering",
+			"Mrs Middleton",
+			"Archie Havering",
+			"Mr Anstruther",
+			"Sergeant Forgan",
+			"Joan"
+		],
+		"crimes": [
+			{
+				"criminalAct": "Murder",
+				"means": "Pistol",
+				"motive": "Inherit",
+				"opportunity": "Pose a Mrs Middleton and commit the crime, putting suspicion on a non-existant person",
+				"perpetrator": "Zoe Havering / Mrs Middleton",
+				"victim": "Harrington Pace"
+			},
+			{
+				"criminalAct": "Conspiracy",
+				"means": "Have Zoe Havering get off the train midway and return to the lodge by bicycle to commit the murder",
+				"motive": "Inherit",
+				"opportunity": "Board the train to London to secure his alibi",
+				"perpetrator": "Roger Havering",
+				"victim": "Harrington Pace"
+			}
+		]
+	},
+	{
+		"season": 4,
+		"episode": 1,
+		"title": "The ABC Murders",
+		"episodeSummary": "A serial killer who chooses his victims alphabetically taunts Poirot with letters detailing his next murder, always leaving a copy of the ABC Railway Guide at each scene.",
+		"originalAirDate": "1992-01-05T00:00:00.000Z",
+		"director": "Andrew Grieve",
+		"writer": "Clive Exton",
+		"mood": "serious",
+		"tropes": {
+			"perpTriesToOutmartPoirot": "true",
+			"frenchVsEnglishCuisine":"true",
+			"hastingsSmitten":"true",
+			"hastingsTravel":"true",
+			"poirotCompulsiveSymmetry":"true"
+		},
+		"mainCharacters": {
+			"japp": "true",
+			"hastings": "true"
+		},
+		"supportingCharacters": [
+			"Alexander Bonaparte Cust",
+			"Donald Fraser",
+			"Megan Barnard",
+			"Mary Drower",
+			"Franklin Clarke",
+			"Franz Ascher",
+			"Superintendent Carter",
+			"Deveril",
+			"Inspector Glen",
+			"Desk Sergeant",
+			"Commissionaire",
+			"Thora Grey",
+			"Lady Clarke",
+			"Miss Merrion",
+			"Mrs Turton",
+			"Mrs Marbury",
+			"Dr Kerr",
+			"Mr Downes",
+			"Mr Strange",
+			"Mr Barnard",
+			"Doctor",
+			"Constable",
+			"Doncaster Sergeant",
+			"Andover Sergeant",
+			"Scotland Yard Sergeant",
+			"Nurse",
+			"Man in Library"
+		],
+		"crimes": [
+			{
+				"criminalAct": "Murder",
+				"means": "Blunt trauma",
+				"motive": "Draw attention away from the one murder with a real motive",
+				"opportunity": "Asking for cigarettes and striking while her back was turned",
+				"perpetrator": "Franklin Clarke",
+				"victim": "Mrs Alice Ascher"
+			},
+			{
+				"criminalAct": "Murder",
+				"means": "Strangulation",
+				"motive": "Draw attention away from the one murder with a real motive",
+				"opportunity": "Following the woman along the beach",
+				"perpetrator": "Franklin Clarke",
+				"victim": "Mrs Betty Barnard"
+			},
+			{
+				"criminalAct": "Murder",
+				"means": "Blunt trauma",
+				"motive": "Inherit and prevent his brother from marrying Thora Grey after his wife died.",
+				"opportunity": "Following his brother on his walk and striking him while his back was turned",
+				"perpetrator": "Franklin Clarke",
+				"victim": "Sir Carmichael Clarke"
+			},
+			{
+				"criminalAct": "Murder",
+				"means": "Knife",
+				"motive": "Draw attention away from the one murder with a real motive",
+				"opportunity": "Stab the man while at the cinema",
+				"perpetrator": "Franklin Clarke",
+				"victim": "Man in cinema"
+			},
+			{
+				"criminalAct": "Obstruction of justice",
+				"means": "Frame another person for murder",
+				"motive": "Draw attention away from the one murder with a real motive",
+				"opportunity": "Hire Cust as a stockings salesman to go to the places and visit possible clients where the murders would be committed, and writing letters to Poirot about the intention to commit murder",
+				"perpetrator": "Franklin Clarke",
+				"victim": "Alexander Bonaparte Cust"
+			}
+		]
+	},
+	{
+		"season": 4,
+		"episode": 2,
+		"title": "Death in the Clouds",
+		"episodeSummary": "Poirot travels to Paris to see a tennis championship, and on the return flight a passenger is murdered with a poison dart.",
+		"originalAirDate": "1992-01-12T00:00:00.000Z",
+		"director": "Stephen Whittaker",
+		"writer": "William Humble",
+		"mood": "serious",
+		"tropes": {
+			"poirotOnHoliday": "true",
+			"bonVoyage": "true",
+			"artImitatesArt":"true"
+		},
+		"mainCharacters": {
+			"japp": "true"
+		},
+		"supportingCharacters": [
+			"Lady Cecily Horbury",
+			"Madame Marie Giselle",
+			"Anne Giselle",
+			"Jane Grey",
+			"Norman Gale",
+			"Venetia Kerr",
+			"Mr Zeropoulos",
+			"Airline Clerk",
+			"Concierge",
+			"Raymond Barraclough",
+			"Daniel Clancy",
+			"Jean Dupont",
+			"Inspector Fournier",
+			"Lord Horbury",
+			"PC Roberts",
+			"Mitchell",
+			"Elise Grandier",
+			"French Registrar",
+			"Hotel Clerk",
+			"Receptionist"
+		],
+		"crimes": [
+			{
+				"criminalAct": "Murder",
+				"means": "Poison dart",
+				"motive": "Greed",
+				"opportunity": "Posing as the steward while most of the passengers were sleeping and pressing the dart into her neck",
+				"perpetrator": "Norman Gale",
+				"victim": "Madame Marie Giselle"
+			},
+			{
+				"criminalAct": "Murder",
+				"means": "Poison",
+				"motive": "Greed",
+				"opportunity": "A train ride together with his new wife",
+				"perpetrator": "Norman Gale",
+				"victim": "Anne Giselle"
+			}
+		]
+	},
+	{
+		"season": 4,
+		"episode": 3,
+		"title": "One, Two, Buckle My Shoe",
+		"episodeSummary": "Poirot's dentist apparently commits suicide in the middle of the day between apointments, and Poirot unravels the mystery.",
+		"originalAirDate": "1992-01-19T00:00:00.000Z",
+		"director": "Ross Devenish",
+		"writer": "Clive Exton",
+		"mood": "serious",
+		"tropes": {
+			"poirotDentist": "true"
+		},
+		"mainCharacters": {
+			"japp": "true"
+		},
+		"supportingCharacters": [
+			"Dr Henry Morley",
+			"Alistair Blunt",
+			"Gerda Grant",
+			"Frank Carter",
+			"Mr Amberiotis",
+			"Jane Olivera",
+			"Georgina Morley",
+			"Helen Montressor",
+			"Albert Chapman",
+			"First Coroner",
+			"Second Coroner",
+			"Mabelle Sainsbury-Seale",
+			"Julia Olivera",
+			"Gladys Neville",
+			"Agnes Fletcher",
+			"Beryl Chapman",
+			"Mr Hendry",
+			"Alison Hendry",
+			"Alfred Biggs",
+			"Lionel Arnholt",
+			"Sergeant Evans",
+			"Sergeant Beddoes",
+			"Dr Bennett",
+			"Mrs Pinner",
+			"Mr Letheran",
+			"Coroner",
+			"Page Boy",
+			"Police Constable",
+			"Receptionist",
+			"Waiter",
+			"Manageress",
+			"Claudio",
+			"Antonio",
+			"Benedick",
+			"Sergeant",
+			"Desk Clerk",
+			"Hopscotch Girl",
+			"Hopscotch Girl"
+		],
+		"crimes": [
+			{
+				"criminalAct": "Murder",
+				"means": "Pistol",
+				"motive": "Assume the identity of the dentist to murder his next patient",
+				"opportunity": "Waiting until after his dental treatment completed and then shooting him",
+				"perpetrator": "Alistair Blunt",
+				"victim": "Dr Henry Morley"
+			},
+			{
+				"criminalAct": "Murder",
+				"means": "Poison.  A shot of novacaine and adrenaline",
+				"motive": "Silencing the blackmailer",
+				"opportunity": "Assuming Dr Morley's identity and administering the shot as part of the dental treatment",
+				"perpetrator": "Alistair Blunt",
+				"victim": "Mr Amberiotis"
+			},
+			{
+				"criminalAct": "Murder",
+				"means": "Blunt trauma",
+				"motive": "Assuming the victim's identity and silencing her knowledge of Blunt's earlier marriage",
+				"opportunity": "Inviting her over for tea",
+				"perpetrator": "Gerda Grant",
+				"victim": "Mabelle Sainsbury-Seale"
+			},
+			{
+				"criminalAct": "Bigamy",
+				"means": "Getting married to Rebecca Arnholt while still being married to Gerda Grant",
+				"motive": "Greed",
+				"opportunity": "Keeping the marriage secret among only a few who knew it in India",
+				"perpetrator": "Alistair Blunt",
+				"victim": "Rebecca Arnholt"
+			},
+			{
+				"criminalAct": "Conspiracy and obstruction of justice",
+				"means": "Firing a shot at Blunt and throwing the gun near his feet",
+				"motive": "Frame the victim for murder",
+				"opportunity": "Hiring the victim as a gardener under the guise of a secret service contract",
+				"perpetrator": "Gerda Grant and Alistair Blunt",
+				"victim": "Frank Carter"
+			},
+			{
+				"criminalAct": "Blackmail",
+				"means": "Knowledge of Blunt's earlier marriage",
+				"motive": "Greed",
+				"opportunity": "Learning of the information from Mabelle Sainsbury-Seale",
+				"perpetrator": "Mr Amberiotis",
+				"victim": "Alistair Blunt"
+			}
+		]
+	},
+	{
+		"season": 5,
+		"episode": 1,
+		"title": "The Adventure of the Egyptian Tomb",
+		"episodeSummary": "Poirot travels to Egypt to investigate a series of four explorers' mysterious deaths after opening a Pharaoh's tomb in the Valley of the Kings.",
+		"originalAirDate": "1993-01-17T00:00:00.000Z",
+		"director": "Peter Barber Fleming",
+		"writer": "Clive Exton",
+		"mood": "serious",
+		"tropes": {
+			"msLemonSupernatural": "true",
+			"hastingsTravel":"true",
+			"hastingsGolf":"true",
+			"diggingUpThePast":"true"
+		},
+		"mainCharacters": {
+			"lemon": "true",
+			"hastings": "true"
+		},
+		"supportingCharacters": [
+			"Felix Bleibner",
+			"Rupert Bleibner",
+			"Dr Robert Ames",
+			"Lady Willard",
+			"Waiter",
+			"Dr Henry Schneider",
+			"Dr John Willard",
+			"Nigel Harper",
+			"Dr Leonard Fosswell",
+			"Sir Guy Willard",
+			"Hassan"
+		],
+		"crimes": [
+			{
+				"criminalAct": "Murder",
+				"means": "Injection contaminated with septicemia",
+				"motive": "To get the fortune to pass to Rupert Bleibner",
+				"opportunity": "Role as doctor for the archeological dig",
+				"perpetrator": "Dr Robert Ames",
+				"victim": "Felix Bleibner"
+			},
+			{
+				"criminalAct": "Murder",
+				"means": "Falsely diagnosing leprosy to drive the victim to suicide",
+				"motive": "Inherit the fortune recently passed to him",
+				"opportunity": "Role as doctor for the archeological dig",
+				"perpetrator": "Dr Robert Ames",
+				"victim": "Rupert Bleibner"
+			},	
+			{
+				"criminalAct": "Murder",
+				"means": "Injecting the victim with tetanus",
+				"motive": "To continue the myth of the curse of King Men-her-Ra",
+				"opportunity": "Role as doctor for the archeological dig",
+				"perpetrator": "Dr Robert Ames",
+				"victim": "Dr Henry Schneider"
+			}
+		]
+	},
+	{
+		"season": 5,
+		"episode": 2,
+		"title": "The Underdog",
+		"episodeSummary": "Poirot attends dinner at a wealthy industrialist's house so he can view the host's collection of bronze miniatures, and that evening their host is murdered.",
+		"originalAirDate": "1993-01-24T00:00:00.000Z",
+		"director": "John Bruce",
+		"writer": "Bill Craig",
+		"mood": "light",
+		"tropes": {
+			"hastingsGolf": "true",
+			"msLemonSupernatural": "true",
+			"hostIsMurdered":"true"
+		},
+		"mainCharacters": {
+			"lemon": "true",
+			"hastings": "true"
+		},
+		"supportingCharacters": [
+			"Sir Reuben Astwell",
+			"Lady Astwell",
+			"Lily",
+			"Charles",
+			"Victor Astwell",
+			"Horace Trefusis",
+			"Gladys",
+			"Parsons",
+			"Humphrey Naylor",
+			"Sergeant",
+			"Receptionist"
+		],
+		"crimes": [
+			{
+				"criminalAct": "Murder",
+				"means": "Blunt trauma",
+				"motive": "Prevent the astroprene compound from being manufactuered at another company so he would benefit from the patent",
+				"opportunity": "Hiding in the office alcove after dinner",
+				"perpetrator": "Horace Trefusis",
+				"victim": "Sir Reuben Astwell"
+			}
+		]
+	},
+	{
+		"season": 5,
+		"episode": 3,
+		"title": "The Yellow Iris",
+		"episodeSummary": "When attending the opening of a new restarant, the circumstances and participants remind Poirot of an old, unsolved case.",
+		"originalAirDate": "1993-01-31T00:00:00.000Z",
+		"director": "Peter Barber Fleming",
+		"writer": "Anthony Horowitz",
+		"mood": "serious",
+		"tropes": {
+			"poirotSolvesColdCase": "true",
+			"poirotIsReallyBelgian": "true",
+			"poirotOnHoliday":"true",
+			"frenchVsEnglishCuisine":"true"
+		},
+		"mainCharacters": {
+			"lemon": "true",
+			"hastings": "true"
+		},
+		"supportingCharacters": [
+			"Barton Russell",
+			"Pauline Wetherby",
+			"General Pereira",
+			"Anthony Chapell",
+			"Lola Valdez",
+			"Mr Grove",
+			"Luigi",
+			"Singer",
+			"Iris Russell",
+			"Stephen Carter",
+			"Singer",
+			"Hotel Receptionist"
+		],
+		"crimes": [
+			{
+				"criminalAct": "Murder",
+				"means": "Poison.  Potassium cyanide in the cocktail",
+				"motive": "Silence her about the deal struck with the rebels",
+				"opportunity": "Going around the table disguised as a waiter",
+				"perpetrator": "Barton Russell",
+				"victim": "Iris Russell"
+			},
+			{
+				"criminalAct": "Attempted murder",
+				"means": "Poison. Potassium cyanide in the cocktail",
+				"motive": "Prevent her from discovering the embezzlement of the trust",
+				"opportunity": "Going around the table disguised as a waiter",
+				"perpetrator": "Barton Russell",
+				"victim": "Pauline Wetherby"
+			},
+			{
+				"criminalAct": "Espionage",
+				"means": "Bribing the rebel General with funds from the British government meant for the oil concessions",
+				"motive": "Greed",
+				"opportunity": "Meeting with the rebel General before the coup",
+				"perpetrator": "Barton Russell and Stephen Carter",
+				"victim": "The people of the Argentine"
+			},
+			{
+				"criminalAct": "Embezzlement",
+				"means": "Control of the trust set aside for Pauline Wetherby",
+				"motive": "Greed",
+				"opportunity": "Control of the trust set aside for Pauline Wetherby",
+				"perpetrator": "Barton Russell",
+				"victim": "Pauline Wetherby"
+			}
+		]
+	},
+	{
+		"season": 5,
+		"episode": 4,
+		"title": "The Case of the Missing Will",
+		"episodeSummary": "A terminally ill man asks Poirot to be executor for a new will that entrusts his entire estate to his female ward, but that night before he can author the new document, the sick man is murdered and the old will goes missing.",
+		"originalAirDate": "1993-02-07T00:00:00.000Z",
+		"director": "John Bruce",
+		"writer": "Douglas Watkinson",
+		"mood": "light",
+		"tropes": {
+			"poirotAvuncular": "true"
+		},
+		"mainCharacters": {
+			"japp": "true",
+			"lemon": "true",
+			"hastings": "true"
+		},
+		"supportingCharacters": [
+			"Andrew Marsh",
+			"Violet Wilson",
+			"Robert Siddaway",
+			"Sarah Siddaway",
+			"John Siddaway",
+			"Peter Baker",
+			"Walter Baker",
+			"Dr Martin Pritchard",
+			"Margaret Baker",
+			"Phyllida Campion",
+			"Doctor"
+		],
+		"crimes": [
+			{
+				"criminalAct": "Murder",
+				"means": "A lethal dose of insulin",
+				"motive": "Prevent Andrew Marsh from changing his will or revealing his real heir so that the inheritance would go to her son",
+				"opportunity": "Luring him to the folly in the middle of the night",
+				"perpetrator": "Sarah Siddaway",
+				"victim": "Andrew Marsh"
+			},
+			{
+				"criminalAct": "Obstruction of justice",
+				"means": "Planting evidence of insulin from Dr Pritchard's lab",
+				"motive": "Draw attention away from the real killer",
+				"opportunity": "Access to the doctor's bag",
+				"perpetrator": "Sarah Siddaway",
+				"victim": "Dr Martin Pritchard"
+			}
+		]
+	},
+	{
+		"season": 5,
+		"episode": 5,
+		"title": "The Adventure of the Italian Nobleman",
+		"episodeSummary": "An Italian count is murdered at a table set for three in a tale of blackmail and coverup.",
+		"originalAirDate": "1993-02-14T00:00:00.000Z",
+		"director": "Brian Farnham",
+		"writer": "Clive Exton",
+		"mood": "light",
+		"tropes": {
+			"hastingsCar": "true",
+			"perpTriesToOutmartPoirot":"true"
+		},
+		"mainCharacters": {
+			"japp": "true",
+			"lemon": "true",
+			"hastings": "true"
+		},
+		"supportingCharacters": [
+			"Bruno Vizzini",
+			"Mario Ascanio",
+			"Miss Rider",
+			"Dr Hawker",
+			"Chef",
+			"1st Secretary",
+			"Count Foscatini",
+			"Mr Edwin Graves",
+			"Margherita Fabbri",
+			"Neighbour",
+			"Sergeant Beddoes",
+			"Bridesmaid 1",
+			"Bridesmaid 2",
+			"Darida",
+			"Lad",
+			"Manager"
+		],
+		"crimes": [
+			{
+				"criminalAct": "Blackmail",
+				"means": "Letters proving support of anti-fascist groups in Italy",
+				"motive": "Greed",
+				"opportunity": "Stealing the letters",
+				"perpetrator": "Count Foscatini",
+				"victim": "Bruno Vizzini"
+			},
+			{
+				"criminalAct": "Murder",
+				"means": "Blunt trauma",
+				"motive": "Greed",
+				"opportunity": "Staging the murder scene details and lying to police about who was there",
+				"perpetrator": "Edwin Graves",
+				"victim": "Count Foscatini"
+			}
+		]
+	},
+	{
+		"season": 5,
+		"episode": 6,
+		"title": "The Chocolate Box",
+		"episodeSummary": "Poirot travels with Japp to Brussels, where Japp receives an award from the Belgian government. While in Belgium, Poirot solves a cold case of a murdered politician.",
+		"originalAirDate": "1993-02-21T00:00:00.000Z",
+		"director": "Ken Grieve",
+		"writer": "Douglas Watkinson",
+		"mood": "light",
+		"tropes": {
+			"poirotSolvesColdCase": "true",
+			"poirotSmitten":"true"
+		},
+		"mainCharacters": {
+			"japp": "true"
+		},
+		"supportingCharacters": [
+			"Virginie Mesnard",
+			"Marianne Deroulard",
+			"Paul Deroulard",
+			"Madame Deroulard",
+			"Gaston Beaujeu",
+			"Xavier Saint Alard",
+			"Boucher",
+			"Francois",
+			"Claude Chantalier",
+			"Jean-Louis Ferraud",
+			"Coroner",
+			"Denise",
+			"Jeanette",
+			"Henri"
+		],
+		"crimes": [
+			{
+				"criminalAct": "Murder",
+				"means": "Chocolate poisoned with trinitrin",
+				"motive": "Religion",
+				"opportunity": "Stealing Gatson Beaujeu's medicine and putting the bottle in Xavier Saint Alard's pocket",
+				"perpetrator": "Madame Deroulard",
+				"victim": "Paul Deroulard"
+			},
+			{
+				"criminalAct": "Breaking and entering",
+				"means": "Lockpick",
+				"motive": "Search the home for evidence of the poison",
+				"opportunity": "Having Virginie take Alard to the opera",
+				"perpetrator": "Hercule Poirot",
+				"victim": "Xavier Saint Alard"
+			},  
+			{
+				"criminalAct": "Manslaughter",
+				"means": "Tripping and causing her to fall down the stairs",
+				"motive": "Accident",
+				"opportunity": "A quarrel",
+				"perpetrator": "Paul Deroulard",
+				"victim": ""
+			}
+		]
+	},
+	{
+		"season": 5,
+		"episode": 7,
+		"title": "Dead Man's Mirror",
+		"episodeSummary": "Poirot loses a bid for an antique mirror at an auction, only to have the winner ask him to dinner to investigate a case of fraud.  The party ends early when the host is shot before dinner.",
+		"originalAirDate": "1993-02-28T00:00:00.000Z",
+		"director": "Brian Farnham",
+		"writer": "Anthony Horowitz",
+		"mood": "light",
+		"tropes": {
+			"hostIsMurdered": "true"
+		},
+		"mainCharacters": {
+			"japp": "true",
+			"hastings": "true"
+		},
+		"supportingCharacters": [
+			"Gervase Chevenix",
+			"Ruth Chevenix",
+			"John Lake",
+			"Hugo Trent",
+			"Miss Lingard",
+			"Vanda Chevenix",
+			"Registrar",
+			"Susan Cardwell",
+			"Snell",
+			"Auctioneer",
+			"Lawrence"
+		],
+		"crimes": [
+			{
+				"criminalAct": "Murder",
+				"means": "Silenced pistol",
+				"motive": "Prevent her biological daughter from being disinherited by Gervase's new will",
+				"opportunity": "Sneaking into the study",
+				"perpetrator": "Miss Lingard",
+				"victim": "Gervase Chevenix"
+			},			
+			{
+				"criminalAct": "Arson",
+				"means": "A device on a timer",
+				"motive": "Get rid of the evidence ",
+				"opportunity": "Being the only one left at the company",
+				"perpetrator": "John Lake",
+				"victim": "Northgate Development"
+			},			
+			{
+				"criminalAct": "Fraud",
+				"means": "Setting up a front company and absconding with the funding",
+				"motive": "Greed",
+				"opportunity": "Setting up the shell company",
+				"perpetrator": "The founders of Northgate Development",
+				"victim": "Investors in Northgate Development"
+			},
+			{
+				"criminalAct": "Attempted murder",
+				"means": "Playing the part of Vanda's spirit guide and suggesting her to leave a note admitting to the murder",
+				"motive": "Save her biological daughter from a murder trial by putting the blame on someone else",
+				"opportunity": "Hiding and speaking to her in the middle of the night",
+				"perpetrator": "Miss Lingard",
+				"victim": "Vanda Chevenix"
+			}
+		]
+	},
+	{
+		"season": 5,
+		"episode": 8,
+		"title": "Jewel Robbery at the Grand Metropolitan",
+		"episodeSummary": "Hastings joins Poirot when he takes a holiday for his health.  They go to see a new play, whose leading actress wears a priceless pearl necklace, which later goes missing.",
+		"originalAirDate": "1993-03-07T00:00:00.000Z",
+		"director": "Ken Grieve",
+		"writer": "Anthony Horowitz",
+		"mood": "light",
+		"tropes": {
+			"poirotOnHoliday": "true",
+			"artImitatesArt":"true"
+		},
+		"mainCharacters": {
+			"japp": "true",
+			"lemon": "true",
+			"hastings": "true"
+		},
+		"supportingCharacters": [
+			"Ed Opalsen",
+			"Margaret Opalsen",
+			"Celestine",
+			"Grace Wilson",
+			"Andrew Hall",
+			"Dr Hawker",
+			"Saunders",
+			"Hubert Devine",
+			"Bellboy",
+			"Holidaymaker",
+			"Lucky Len",
+			"Guest",
+			"Journalist",
+			"Holidaymaker",
+			"Holidaymaker",
+			"Manager"
+		],
+		"crimes": [
+			{
+				"criminalAct": "Theft",
+				"means": "Quickly removing the box from the room, opening it with a duplicate key and putting it back",
+				"motive": "Greed.  Sell the necklace in America.",
+				"opportunity": "Visiting the maid with supper and removing the box while she went out of the room for a moment",
+				"perpetrator": "Grace Saunders and Mr Worthing / Saunders",
+				"victim": "Ed Opalsen"
+			}
+		]
+	},
+	{
+		"season": 6,
+		"episode": 1,
+		"title": "Hercule Poirot's Christmas",
+		"episodeSummary": "Poirot's quiet Christmas plans are spoiled when the boiler at Whitehaven Mansions breaks down, but after receing an invite to an estate with central heating, he spends Christmas with a wealthy, old miser who is then murdered during the family's reunion,",
+		"originalAirDate": "1995-01-01T00:00:00.000Z",
+		"director": "Edward Bennett",
+		"writer": "Clive Exton",
+		"mood": "light",
+		"tropes": {
+			"christmasSpecial": "true",
+			"hostIsMurdered": "true",
+			"perpTriesToOutmartPoirot":"true"
+		},
+		"mainCharacters": {
+			"japp": "true"
+		},
+		"supportingCharacters": [
+			"Simeon Lee",
+			"Alfred Lee",
+			"Lydia Lee",
+			"Magdalene Lee",
+			"Harry Lee",
+			"Pilar Estravados",
+			"Horbury",
+			"Tressilian",
+			"Superintendent Harold Sugden",
+			"Sergeant Coombes",
+			"Stella",
+			"Train Steward",
+			"Mr Charlton",
+			"Conchita Lopez",
+			"George Lee",
+			"Young Simeon",
+			"Young Stella",
+			"Gerrit",
+			"Shopkeeper",
+			"Cook",
+			"Constable"
+		],
+		"crimes": [
+			{
+				"criminalAct": "Murder",
+				"means": "Knife",
+				"motive": "Revenge",
+				"opportunity": "Visiting the victim for a donation to the holiday charity",
+				"perpetrator": "Superintendent Harold Sugden",
+				"victim": "Simeon Lee"
+			},
+			{
+				"criminalAct": "Theft",
+				"means": "The safe was left open",
+				"motive": "Revenge",
+				"opportunity": "Visiting the victim for a donation to the holiday charity",
+				"perpetrator": "Superintendent Harold Sugden",
+				"victim": "Simeon Lee"
+			},
+			{
+				"criminalAct": "Obstruction of justice",
+				"means": "Framing innnocent members of the household by planting evidence",
+				"motive": "Draw suspicion away from the real murderer",
+				"opportunity": "As the investigating officer, he was well-placed to plant evidence",
+				"perpetrator": "Superintendent Harold Sugden",
+				"victim": "Lydia Lee"
+			},
+			{
+				"criminalAct": "Attempted murder",
+				"means": "",
+				"motive": "",
+				"opportunity": "",
+				"perpetrator": "Superintendent Harold Sugden",
+				"victim": "Conchita Lopez"
+			},
+			{
+				"criminalAct": "Identity Fraud",
+				"means": "Using her friend's passport",
+				"motive": "Entertainment",
+				"opportunity": "Taking her friend's passport after she died in a motorcar accident in Spain",
+				"perpetrator": "Conchita Lopez",
+				"victim": "Pilar Estravados"
+			}
+		]
+	},
+	{
+		"season": 6,
+		"episode": 2,
+		"title": "Hickory Dickory Dock",
+		"episodeSummary": "Miss Lemon asks Poirot to investigate a series of seemingly-unrelated thefts at a student hostel, a trail which leads to several desperate and daring murders.",
+		"originalAirDate": "1995-02-12T00:00:00.000Z",
+		"director": "Andrew Grieve",
+		"writer": "Anthony Horowitz",
+		"mood": "serious",
+		"tropes": {
+			"perpTriesToOutmartPoirot": "true",
+			"poirotSolvesColdCase": "true",
+			"frenchVsEnglishCuisine": "true"
+		},
+		"mainCharacters": {
+			"japp": "true",
+			"lemon": "true"
+		},
+		"supportingCharacters": [
+			"Mrs Florence Hubbard",
+			"Mrs Christina Nicoletis",
+			"Nigel Chapman",
+			"Leonard Bateson",
+			"Sir Arthur Stanley",
+			"Giorgios Nicoletis",
+			"Butcher",
+			"Colin McNabb",
+			"Celia Austin",
+			"Sally Finch",
+			"Valerie Hobhouse",
+			"Patricia Lane",
+			"Mr John Casterman",
+			"Mr Endicott",
+			"Jarrow Marcher",
+			"Passport Officer",
+			"Customs Officer",
+			"Pharmacist",
+			"Chief Inspector"
+		],
+		"crimes": [
+			{
+				"criminalAct": "Theft of the light bulbs",
+				"means": "Ladder",
+				"motive": "Make sure the hallway was darkened so as not to be seen",
+				"opportunity": "Removing the bulbs before the police officer came to visit the hostel",
+				"perpetrator": "Nigel Chapman",
+				"victim": "Mrs Christina Nicoletis"
+			},
+			{
+				"criminalAct": "Petty Theft.  Theft of diamond ring, evening shoe, bracelet, silk scarf, cigarette lighter, cookbook ",
+				"means": "Taking the items when no one was around",
+				"motive": "Gain the attentions of Colin by appearing to be a kleptomaniac",
+				"opportunity": "Access to the places in the hostel where these items were kept",
+				"perpetrator": "Celia Austin",
+				"victim": "Members of the hostel"
+			},
+			{
+				"criminalAct": "Smuggling",
+				"means": "Concealing diamonds in rucksacks so students visiting Europe would unknowingly smuggle diamonds into England",
+				"motive": "Greed",
+				"opportunity": "Ownership of the rucksack shop",
+				"perpetrator": "Mrs Christina Nicoletis, Nigel Chapman, and Valerie Hobhouse",
+				"victim": "The Commonwealth"
+			},
+			{
+				"criminalAct": "Theft of stethescope",
+				"means": "Disguise himself as a doctor to steal the morphine",
+				"motive": "Win a bet",
+				"opportunity": "Taking it from the victim's room",
+				"perpetrator": "Colin McNabb ",
+				"victim": "Leonard Bateson"
+			},
+			{
+				"criminalAct": "Theft of morphine",
+				"means": "Disguising himself as a doctor and going into the pharmacy while it was busy",
+				"motive": "Win a bet",
+				"opportunity": "Disguising himself and stealing it while the pharmacy was busy",
+				"perpetrator": "Colin McNabb ",
+				"victim": "The hospital pharmacy"
+			},
+			{
+				"criminalAct": "Theft of box of boracic powder",
+				"means": "Taking it from the supply room",
+				"motive": "Swapping it out for the morphine in Colin's posession",
+				"opportunity": "Access to the hostel supply room",
+				"perpetrator": "Nigel Chapman",
+				"victim": "Mrs Christina Nicoletis"
+			},
+			{
+				"criminalAct": "Murder",
+				"means": "Morphine put into her sleeping draft",
+				"motive": "Silence her because she knew about him destroying the rucksack",
+				"opportunity": "Accessing her room before bedtime",
+				"perpetrator": "Nigel Chapman",
+				"victim": "Celia Austin"
+			},
+			{
+				"criminalAct": "Murder",
+				"means": "Knife",
+				"motive": "Silence her because she was threatening to go to the police",
+				"opportunity": "Going to the victim's room at night to talk",
+				"perpetrator": "Nigel Chapman",
+				"victim": "Mrs Christina Nicoletis"
+			},
+			{
+				"criminalAct": "Murder",
+				"means": "Blunt trauma",
+				"motive": "Silence her because she had learned the perpetrator's true identity from the family photo",
+				"opportunity": "Sneaking into her room",
+				"perpetrator": "Nigel Chapman",
+				"victim": "Patricia Lane"
+			},
+			{
+				"criminalAct": "Destruction of property",
+				"means": "Using a knife to cut into the rucksack",
+				"motive": "Retrieve the diamonds that were hidden in the rucksack",
+				"opportunity": "Darkening the hostel and taking the rucksack to the back of the hostel",
+				"perpetrator": "Colin McNabb ",
+				"victim": "Leonard Bateson"
+			},
+			{
+				"criminalAct": "Murder",
+				"means": "Poison.  Overdose of sleeping powder",
+				"motive": "Prevent his mother from calling the police about his thefts",
+				"opportunity": "Access to her sleeping powder",
+				"perpetrator": "Nigel Chapman",
+				"victim": "Lady Stanley"
+			}
+		]
+	},
+	{
+		"season": 6,
+		"episode": 3,
+		"title": "Murder on the Links",
+		"episodeSummary": "While on holiday in France, Poirot wagers his iconic mustache against a French sleuth's pipe in the case of murder and kidnapping.",
+		"originalAirDate": "1996-02-11T00:00:00.000Z",
+		"director": "Andrew Grieve",
+		"writer": "Anthony Horowitz",
+		"mood": "serious",
+		"tropes": {
+			"hastingsGolf": "true",
+			"poirotOnHoliday": "true",
+			"hastingsSmitten": "true",
+			"perpTriesToOutmartPoirot":"true",
+			"poirotSolvesColdCase":"true",
+			"poirotMatchmaker":"true"
+		},
+		"mainCharacters": {
+			"hastings": "true"
+		},
+		"supportingCharacters": [
+			"Paul Renauld",
+			"Eloise Renauld",
+			"Gabriel Stonor",
+			"News Commentator",
+			"Secretary",
+			"Jack Renauld",
+			"Marthe Daubreuil",
+			"Bernadette Daubreuil",
+			"Bella Duveen",
+			"Giraud",
+			"Lucien Bex",
+			"Dr Hautet",
+			"Leonie",
+			"Adam Letts",
+			"Projectionist",
+			"Station Master",
+			"Judge",
+			"Lawyer",
+			"Tramp",
+			"Concierge",
+			"Golfer",
+			"Golfer",
+			"Policeman",
+			"Policeman"
+		],
+		"crimes": [
+			{
+				"criminalAct": "Murder",
+				"means": "Unspecified",
+				"motive": "Love",
+				"opportunity": "Unspecified",
+				"perpetrator": "George Connor",
+				"victim": "Arnold Beroldy"
+			},
+			{
+				"criminalAct": "Blackmail",
+				"means": "Knowing that Paul Renauld was actually George Connor, who was wanted for murder",
+				"motive": "Greed",
+				"opportunity": "Knowing the victim from years before",
+				"perpetrator": "Bernadette Daubreuil",
+				"victim": "Paul Renauld"
+			},
+			{
+				"criminalAct": "Conspiracy",
+				"means": "Faking the death of Paul Renauld",
+				"motive": "Escape from the blackmail of Bernadette Daubreuil",
+				"opportunity": "Staging a false murder and having Eloise identify the corpse of the tramp as Paul Renauld",
+				"perpetrator": "Paul and Eloise Renauld",
+				"victim": "The Commonwealth"
+			},
+			{
+				"criminalAct": "Improper storage and treatment of human remains",
+				"means": "Stabbing the corpse of the tramp and leaving the knife in it",
+				"motive": "Escape from the blackmail of Bernadette Daubreuil",
+				"opportunity": "Using the corpse of the tramp as a stand-in for Paul Renauld",
+				"perpetrator": "Paul Renauld",
+				"victim": "Tramp"
+			},
+			{
+				"criminalAct": "Murder",
+				"means": "Knife",
+				"motive": "Greed. Inheritance scheme. Killing Renauld and then his wife would mean the inheritance would pass to her fiancé",
+				"opportunity": "Overhearing the plan for Renauld to fake his death and going at night and actually killing him",
+				"perpetrator": "Marthe Daubreuil",
+				"victim": "Paul Renauld"
+			},
+			{
+				"criminalAct": "Murder.  Self defence",
+				"means": "Pistol",
+				"motive": "Protect ",
+				"opportunity": "During the attempted murder of Eloise Renauld there is a struggle with the gun and the gun went off, killing the victim",
+				"perpetrator": "Gabriel Stonor",
+				"victim": "Marthe Daubreuil"
+			},
+			{
+				"criminalAct": "Attempted murder",
+				"means": "Pistol",
+				"motive": "Greed.  Inheritance scheme.  Prevent the victim from changing her will so the money would go to her fiancé",
+				"opportunity": "Going to the house in the middle of the night to kill the victim",
+				"perpetrator": "Marthe Daubreuil",
+				"victim": "Eloise Renauld"
+			},
+			{
+				"criminalAct": "Perjury",
+				"means": "Lying in court and confessing to the murder",
+				"motive": "Love.  Protect Jack Renauld",
+				"opportunity": "Bursting into the court and turning herself in",
+				"perpetrator": "Bella Duveen",
+				"victim": "The Commonwealth"
+			},
+			{
+				"criminalAct": "Obstruction of justice",
+				"means": "Stealing evidence",
+				"motive": "Love.  Protect Jack Renauld",
+				"opportunity": "Taking the murder weapon while visiting the police station while others were out of the room",
+				"perpetrator": "Bella Duveen",
+				"victim": "The Commonwealth"
+			}
+		]
+	},
+	{
+		"season": 6,
+		"episode": 4,
+		"title": "Dumb Witness",
+		"episodeSummary": "Poirot and Hastings attend a speedboat world-record attempt.  When their hostess confides in Poirot her fear of being murdered, he suggests that she write a new will.  When she is killed anyway, Poirot looks to an unlikely witness.",
+		"originalAirDate": "1996-03-16T00:00:00.000Z",
+		"director": "Edward Bennett",
+		"writer": "Douglas Watkinson",
+		"mood": "light",
+		"tropes": {
+			"hostIsMurdered": "true"
+		},
+		"mainCharacters": {
+			"hastings": "true"
+		},
+		"supportingCharacters": [
+			"Emily Arundell",
+			"Charles Arundell",
+			"Theresa Arundell",
+			"Dr Jacob Tanios",
+			"Bella Tanios",
+			"Wilhelmina Lawson",
+			"Dr John Grainger",
+			"Julia Tripp",
+			"Sgt Keeley",
+			"Mrs Finch",
+			"Katya",
+			"Isabel Tripp",
+			"Bob",
+			"Alexis",
+			"Vicar",
+			"Sarah",
+			"Steward",
+			"Starter",
+			"American"
+		],
+		"crimes": [
+			{
+				"criminalAct": "Attempted murder",
+				"means": "A tripwire",
+				"motive": "Greed.  Inherit",
+				"opportunity": "Installing a tripwire at the top of the stairs",
+				"perpetrator": "Bella Tanios",
+				"victim": "Emily Arundell"
+			},
+			{
+				"criminalAct": "Murder",
+				"means": "Poison. Phosphorus",
+				"motive": "Greed.  Inherit",
+				"opportunity": "Planting phosphorus in the liver capsule",
+				"perpetrator": "Bella Tanios", 
+				"victim": "Emily Arundell"
+			},
+			{
+				"criminalAct": "Murder",
+				"means": "Poison.  Carbon monoxide",
+				"motive": "Silence the doctor for his potential knowledge of the phosphorus poisoning",
+				"opportunity": "Sneaking into his room and opening the gas valve",
+				"perpetrator": "Bella Tanios",
+				"victim": "Dr . John Grainger"
+			},
+			{
+				"criminalAct": "Breaking and entering",
+				"means": "Rowboat across the lake and breaking into the house",
+				"motive": "Steal the art they thought was rightfully theirs",
+				"opportunity": "Coming to the house in the middle of the night",
+				"perpetrator": "Charles and Theresa Arundell",
+				"victim": "Estate of Emily Arundell"
+			}	
+		]
+	},
+	{
+		"season": 7,
+		"episode": 1,
+		"title": "The Murder of Roger Ackroyd",
+		"episodeSummary": "Poirot has retired to a country village to enjoy the quiet life and tend a vegetable marrow, but emerges from retirement to solve the murder of his friend Roger.",
+		"originalAirDate": "2000-01-02T00:00:00.000Z",
+		"director": "Andrew Grieve",
+		"writer": "Clive Exton",
+		"mood": "dark",
+		"tropes": {
+			"poirotRetirement": "true",
+			"poirotCompulsiveSymmetry":"true",
+			"poirotSolvesColdCase":"true"
+		},
+		"mainCharacters": {
+			"japp": "true"
+		},
+		"supportingCharacters": [
+			"Dr James Sheppard",
+			"Caroline Sheppard",
+			"Roger Ackroyd",
+			"Flora Ackroyd",
+			"Mrs Vera Ackroyd",
+			"Ursula Bourne",
+			"Ralph Paton",
+			"Dorothy Ferrars",
+			"Naval Petty Officer",
+			"Parker",
+			"Geoffrey Raymond",
+			"Inspector Davis",
+			"Mr Hammond",
+			"Mrs Folliott",
+			"Constable Jones",
+			"Landlord",
+			"Mary",
+			"Postman",
+			"Ted"
+		],
+		"crimes": [{
+			"criminalAct": "Murder",
+			"means": "Knife",
+			"motive": "Prevent Ackroyd from learning that he was blackmailing Dorothy Ferrars",
+			"opportunity": "Sitting together in Ackroyd's office after dinner",
+			"perpetrator": "Dr James Parker",
+			"victim": "Roger Ackroyd"
+		},
+		{
+			"criminalAct": "Murder",
+			"means": "Vehicle",
+			"motive": "Silence his knowledge of the state of the room, which would have led to him questioning Dr Sheppard",
+			"opportunity": "Finding Parker walking home from the pub",
+			"perpetrator": "Dr James Sheppard",
+			"victim": "Parker"
+		},
+		{
+			"criminalAct": "Theft",
+			"means": "Knowledge that her uncle kept money in the drawers",
+			"motive": "Paying off debts",
+			"opportunity": "A few moments alone in the room after dinner",
+			"perpetrator": "Flora Ackroyd",
+			"victim": "Roger Ackroyd"
+		},
+		{
+			"criminalAct": "Blackmail",
+			"means": "Knowledge that Dorothy Ferrars murdered her husband",
+			"motive": "Greed and revenge",
+			"opportunity": "Learning of the case and studying the details",
+			"perpetrator": "Dr James Sheppard",
+			"victim": "Dorothy Ferrars"
+		},
+		{
+			"criminalAct": "Murder",
+			"means": "Poison",
+			"motive": "Release from the marriage to her abuseive husband",
+			"opportunity": "Living together and access to his food and drink",
+			"perpetrator": "Dorothy Ferrars",
+			"victim": "Mr. Ferrars"
+		}
+	]
+	},
+	{
+		"season": 7,
+		"episode": 2,
+		"title": "Lord Edgware Dies",
+		"episodeSummary": "A well-known actress asks Poirot for help to divorce her husband.  When the husband is stabbed in the neck, Poirot finds no shortage of suspects, all with alibis.",
+		"originalAirDate": "2000-02-19T00:00:00.000Z",
+		"director": "Brian Farnham",
+		"writer": "Anthony Horowitz",
+		"mood": "serious",
+		"tropes": {
+			"perpTriesToOutmartPoirot": "true",
+			"artImitatesArt":"true",
+			"msLemonsFilingSystem":"true",
+			"hastingsSmitten":"true",
+			"hastingsTravel":"true",
+			"poirotAvuncular":"true",
+			"hastingsSolvesCase":"true"
+		},
+		"mainCharacters": {
+			"japp": "true",
+			"lemon": "true",
+			"hastings": "true"
+		},
+		"supportingCharacters": [
+			"Jane Wilkinson",
+			"Lord Edgware",
+			"Carlotta Adams",
+			"Bryan Martin",
+			"Penny Driver",
+			"Geraldine Marsh",
+			"Alton",
+			"Ellis",
+			"Receptionist",
+			"Donald Ross",
+			"Miss Carroll",
+			"Alice",
+			"Sir Montagu Corner",
+			"Lady Corner",
+			"The Duke of Merton",
+			"Lucie Adams",
+			"Addison",
+			"Thompson",
+			"Page Boy",
+			"Airport Clerk"
+		],
+		"crimes": [
+			{
+				"criminalAct": "Murder",
+				"means": "Knife",
+				"motive": "As a devout Catholic, her fiancé could not marry a divorced woman",
+				"opportunity": "Establishing her alibi at the dinner and going to the house and doing it herself",
+				"perpetrator": "Jane Wilkinson",
+				"victim": "Lord Edgware"
+			},
+			{
+				"criminalAct": "Murder",
+				"means": "Poison.  Veronal in the wine",
+				"motive": "Silence her knowledge of her participation in the murder plot, acting as the alibi of Jane Wilkinson",
+				"opportunity": "Hiring her for the acting job and then killing her after getting the details of the dinner",
+				"perpetrator": "Jane Wilkinson",
+				"victim": "Carlotta Adams"
+			},
+			{
+				"criminalAct": "Murder",
+				"means": "Knife",
+				"motive": "Silence his knowledge about her not being present at the dinner, and thus being somewhere else meaning her alibi was false",
+				"opportunity": "Following him back to his office",
+				"perpetrator": "Jane Wilkinson",
+				"victim": "Donald Ross"
+			},
+			{
+				"criminalAct": "Obstruction of justice",
+				"means": "Tampering with evidence.  Altering the letter to make it seem as though Ronald Marsh hired Carlotta Adams for job",
+				"motive": "Divert suspicion onto Ronald Marsh",
+				"opportunity": "Access to the letter",
+				"perpetrator": "Jane Wilkinson",
+				"victim": "Ronald Marsh"
+			},
+			{
+				"criminalAct": "Theft of French Francs",
+				"means": "Access to the key to the safe",
+				"motive": "Greed",
+				"opportunity": "Acess to the key to the safe after the murder of Lord Edgware",
+				"perpetrator": "Alton",
+				"victim": "Lord Edgware"
+			}
+		]
+	},
+	{
+		"season": 8,
+		"episode": 1,
+		"title": "Evil Under the Sun",
+		"episodeSummary": "On doctor's orders, Miss Lemon books Poirot into a island spa resort for his health.  When one of the guests is found murdered on the beach, Japp quarrantines the island while he and Poirot interview the guests.",
+		"originalAirDate": "2001-04-20T00:00:00.000Z",
+		"director": "Brian Farnham",
+		"writer": "Anthony Horowitz",
+		"mood": "light",
+		"tropes": {
+			"poirotOnHoliday": "true",
+			"poirotSolvesColdCase": "true"
+		},
+		"mainCharacters": {
+			"japp": "true",
+			"lemon": "true",
+			"hastings": "true"
+		},
+		"supportingCharacters": [
+			"Patrick Redfern",
+			"Christine Redfern",
+			"Arlena Stuart-Marshall",
+			"Emily Brewster",
+			"Lionel Marshall",
+			"Rosamund Darnley",
+			"Mrs Castle",
+			"Jack Lovett",
+			"William",
+			"Chief Constable Weston",
+			"Edward Deverill",
+			"Jane Martindale",
+			"Kenneth Marshall",
+			"Reverend Stephen Lane",
+			"Major Barry",
+			"Horace Blatt",
+			"Gladys Narracott",
+			"Nathan Lloyd",
+			"Simon Kelso",
+			"Barman",
+			"Librarian",
+			"Policeman",
+			"Coroner",
+			"Mr Applegood",
+			"Waiter",
+			"Officer"
+		],
+		"crimes": [
+			{
+				"criminalAct": "Murder",
+				"means": "Strangulation",
+				"motive": "Greed",
+				"opportunity": "Meeting alone while others were at church",
+				"perpetrator": "Patrick Redfern",
+				"victim": "Alice Corrigan"
+			},
+			{
+				"criminalAct": "Conspiracy and making false statements to police",
+				"means": "Lying to police about the time the body was discovered",
+				"motive": "Establish an alibi for her partner",
+				"opportunity": "Foreknowledge of how the murder would be committed",
+				"perpetrator": "Christine Redfern",
+				"victim": "The Commonwealth"
+			},
+			{
+				"criminalAct": "Murder",
+				"means": "Strangulation",
+				"motive": "Greed",
+				"opportunity": "Establishing an alibi first then killing her in the nearby cave",
+				"perpetrator": "Patrick Redfern",
+				"victim": "Arlena Stuart-Marshall"
+			},
+			{
+				"criminalAct": "Conspiracy",
+				"means": "Lying to police about the time the body was discovered",
+				"motive": "Establish an alibi for her partner",
+				"opportunity": "Foreknowledge of how the murder would be committed",
+				"perpetrator": "Christine Redfern",
+				"victim": "The Commonwealth"
+			},
+			{
+				"criminalAct": "Fraud",
+				"means": "Stealing money under the guise of an investment fund",
+				"motive": "Greed",
+				"opportunity": "Faking an investment fund",
+				"perpetrator": "Patrick and Christine Redfern",
+				"victim": "Arlena Stuart-Marshall"
+			}
+		]
+	},
+	{
+		"season": 8,
+		"episode": 2,
+		"title": "Murder in Mesopotamia",
+		"episodeSummary": "While Poirot and Hastings visit a dig site in Iraq, the wife of a renowned archeologist confides in Poirot that she is receiving threatening letters and is then killed under mysterious circumstances.",
+		"originalAirDate": "2002-06-02T00:00:00.000Z",
+		"director": "Tom Clegg",
+		"writer": "Clive Exton",
+		"mood": "light",
+		"tropes": {
+			"poirotOnHoliday": "true",
+			"poirotSmitten":"true",
+			"diggingUpThePast":"true"
+		},
+		"mainCharacters": {
+			"hastings": "true"
+		},
+		"supportingCharacters": [
+			"Superintendent Maitland",
+			"Sheila Maitland",
+			"Joseph Mercado",
+			"Richard Carey",
+			"Hotel Receptionist",
+			"Dr Eric Leidner",
+			"Louise Leidner",
+			"Anne Johnson",
+			"Amy Leatheran",
+			"Bill Coleman",
+			"Mrs Mercado",
+			"Father Lavigny",
+			"Frederick Bosner",
+			"Squat Man",
+			"Police Sergeant",
+			"Murdered Man",
+			"Workman",
+			"Abdullah"
+		],
+		"crimes": [
+			{
+				"criminalAct": "Murder",
+				"means": "Blunt truama.  Dropping the heavy stone quern on her head",
+				"motive": "Jealousy.  Richard Cary and Louise Leidner had fallen in love with each other",
+				"opportunity": "Terrorizing his wife with a mask and then dropping the heavy object on her head from the roof",
+				"perpetrator": "Dr Eric Leidner",
+				"victim": "Louise Leidner"
+			},
+			{
+				"criminalAct": "Murder",
+				"means": "Poison.  Hydrochloric acid",
+				"motive": "Silence her knowledge of how the murder was committed",
+				"opportunity": "Replacing the water at her bed table with acid",
+				"perpetrator": "Dr Eric Leidner",
+				"victim": "Anne Johnson"
+			}
+		]
+	},
+	{
+		"season": 9,
+		"episode": 1,
+		"title": "Five Little Pigs",
+		"episodeSummary": "A young woman has come of age and implores Poirot to investigate the fourteen-year old case where her mother was hanged for murdering her father.",
+		"originalAirDate": "2003-12-14T00:00:00.000Z",
+		"director": "Paul Unwin",
+		"writer": "Kevin Elyot",
+		"mood": "dark",
+		"tropes": {
+			"poirotSolvesColdCase": "true"
+		},
+		"mainCharacters": {},
+		"supportingCharacters": [
+			"Caroline Crale",
+			"Amyas Crale",
+			"Lucy Crale",
+			"Philip Blake",
+			"Meredith Blake",
+			"Elsa Greer",
+			"Miss Williams",
+			"Angela Warren",
+			"Young Angela",
+			"Depleach",
+			"Mrs Spriggs",
+			"Judge",
+			"Young Lucy",
+			"Young Caroline",
+			"Young Amyas",
+			"Young Philip",
+			"Young Meredith",
+			"Hollinghurst"
+		],
+		"crimes": [
+			{
+				"criminalAct": "Murder",
+				"means": "Poison. Coniine put into beer",
+				"motive": "Revenge",
+				"opportunity": "Poisoning the beer with a pipette and served the victim the beer",
+				"perpetrator": "Elsa Greer",
+				"victim": "Amyas Crale"
+			}
+		]
+	},
+	{
+		"season": 9,
+		"episode": 2,
+		"title": "Sad Cypress",
+		"episodeSummary": "A young girl is on trial for murdering her wealthy aunt, and though all signs point to her guilt, Poirot seeks the truth in a web of inheritance intrigue.",
+		"originalAirDate": "2003-12-26T00:00:00.000Z",
+		"director": "David Moore",
+		"writer": "David Pirie",
+		"mood": "serious",
+		"tropes": {
+			"poirotMatchmaker": "true"
+		},
+		"mainCharacters": {},
+		"supportingCharacters": [
+			"Elinor Carlisle",
+			"Roddy Winter",
+			"Mary Gerrard",
+			"Dr Peter Lord",
+			"Nurse Hopkins / Mary Reilly",
+			"Mrs Laura Welman",
+			"Judge",
+			"Ted Horlick",
+			"Marsden",
+			"Seddon",
+			"Nurse O'Brien",
+			"Mrs Bishop",
+			"Prosecuting Counsel",
+			"Hunterbury Maid"
+		],
+		"crimes": [
+			{
+				"criminalAct": "Murder",
+				"means": "Poison.  Morphine",
+				"motive": "Greed.  Inherit",
+				"opportunity": "Poisoning both her tea and the victim's tea and injecting herself with apomorphine as an antidote",
+				"perpetrator": "Nurse Hopkins / Mary Reilly",
+				"victim": ""
+			},
+			{
+				"criminalAct": "Attempted murder",
+				"means": "Poison",
+				"motive": "Prevent the intended victim from solving the murder",
+				"opportunity": "Serving poisoned tea",
+				"perpetrator": "Nurse Hopkins / Mary Reilly",
+				"victim": "Hercule Poirot"
+			}
+		]
+	},
+	{
+		"season": 9,
+		"episode": 3,
+		"title": "Death on the Nile",
+		"episodeSummary": "A beautiful heiress has married her best friend's ex-fiancé, but the jilted lover stalks the new couple on their honeymoon in Egypt.  When the couple's Nile river cruise turns deadly for the heiress, Poirot investigates the river cruise guests.",
+		"originalAirDate": "2004-04-12T00:00:00.000Z",
+		"director": "Andy Wilson",
+		"writer": "Kevin Elyot",
+		"mood": "serious",
+		"tropes": {
+			"poirotOnHoliday": "true",
+			"bonVoyage": "true",
+			"poirotMatchmaker":"true",
+			"poirotLenientJudgeAndJury":"true"
+		},
+		"mainCharacters": {},
+		"supportingCharacters": [
+			"Colonel Race",
+			"Simon Doyle",
+			"Linnet Ridgeway-Doyle",
+			"Jacqueline de Bellefort",
+			"Andrew Pennington",
+			"Marie Van Schuyler",
+			"Cornelia Robson",
+			"Mrs Allerton",
+			"Tim Allerton",
+			"Salome Otterbourne",
+			"Rosalie Otterbourne",
+			"Mr Ferguson",
+			"Dr Bessner",
+			"Louise Bourget",
+			"Cruise Manager",
+			"Joanna Southwood"
+		],
+		"crimes": [
+			{
+				"criminalAct": "Theft of pearl necklace",
+				"means": "Switching the real pearl necklace for a fake one",
+				"motive": "Greed",
+				"opportunity": "Entering the cabin at night and making the switch",
+				"perpetrator": "Tim Allerton",
+				"victim": "Linnet Ridgeway-Doyle"
+			},
+			{
+				"criminalAct": "Murder and Conspiracy",
+				"means": "Pistol",
+				"motive": "Greed.  Inherit his wife's money",
+				"opportunity": "Staging the shooting in the leg of Simon Doyle to establish an alibi, and Doyle running to Linnet's cabin to shoot her",
+				"perpetrator": "Simon Doyle and Jacqueline de Bellefort",
+				"victim": "Linnet Ridgeway-Doyle"
+			},
+			{
+				"criminalAct": "Murder",
+				"means": "Scalpel",
+				"motive": "Silence her knowledge about the murder ",
+				"opportunity": "Going to her cabin after giving her the payoff money",
+				"perpetrator": "Jacqueline de Bellefort",
+				"victim": "Louise Bourget"
+			},
+			{
+				"criminalAct": "Murder",
+				"means": "Pistol",
+				"motive": "Silence her knowledge about the murder ",
+				"opportunity": "Quickly grabbing the gun from Andrew Pennington's cabin and shooting the victim before she could talk",
+				"perpetrator": "Jacqueline de Bellefort",
+				"victim": "Salome Otterbourne"
+			},
+			{
+				"criminalAct": "Murder",
+				"means": "Pistol",
+				"motive": "Avoid trial and execution in Egypt",
+				"opportunity": "Getting close for a final kiss, shooting him and then turning the gun on herself",
+				"perpetrator": "Jacqueline de Bellefort",
+				"victim": "Simon Doyle"
+			}
+		]
+	},
+	{
+		"season": 9,
+		"episode": 4,
+		"title": "The Hollow",
+		"episodeSummary": "When a philandering doctor's spouse is caught with gun-in-hand over his body, it seems an open-and-shut case, until the ballistics report suggests a different gun and other suspects.",
+		"originalAirDate": "2004-04-26T00:00:00.000Z",
+		"director": "Simon Langton",
+		"writer": "Nick Dear",
+		"mood": "serious",
+		"tropes": {"poirotLenientJudgeAndJury":"true"},
+		"mainCharacters": {},
+		"supportingCharacters": [
+			"Dr John Christow",
+			"Henrietta Savernake",
+			"Gerda Christow",
+			"Sir Henry Angkatell",
+			"Lady Lucy Angkatell",
+			"Edward Angkatell",
+			"Veronica Cray",
+			"Inspector Grange",
+			"Gudgeon",
+			"Mrs Pearstock",
+			"Elsie Patterson",
+			"Beryl Collins",
+			"Midge Hardcastle",
+			"Sergeant Coombes",
+			"Simmons",
+			"Young Officer",
+			"Victor Simms",
+			"Frances Simms"
+		],
+		"crimes": [
+			{
+				"criminalAct": "Murder",
+				"means": "Pistol",
+				"motive": "Jealousy",
+				"opportunity": "Bringing two guns to the murder scene and hiding the one that was used in order to confound the investigation",
+				"perpetrator": "Gerda Christow",
+				"victim": "Dr John Christow"
+			},
+			{
+				"criminalAct": "Conspiracy and obstruction of justice",
+				"means": "Hiding the murder weapon",
+				"motive": "Protect Gerda Christow from prosecution",
+				"opportunity": "Encasing the murder weapon inside one of her sculptures",
+				"perpetrator": "Henrietta Savernake",
+				"victim": "The Commonwealth"
+			}
+		]
+	},
+	{
+		"season": 10,
+		"episode": 1,
+		"title": "The Mystery of the Blue Train",
+		"episodeSummary": "A wealthy heiress is brutally killed and a precious ruby is stolen on the Blue Train to Nice.",
+		"originalAirDate": "2006-01-01T00:00:00.000Z",
+		"director": "Hettie Macdonald",
+		"writer": "Guy Andrews",
+		"mood": "dark",
+		"tropes": {
+			"poirotOnHoliday": "true",
+			"poirotAvuncular": "true",
+			"bonVoyage": "true"
+		},
+		"mainCharacters": {},
+		"supportingCharacters": [
+			"Rufus Van Aldin",
+			"Lady Tamplin",
+			"Corky Tamplin",
+			"Lenox Tamplin",
+			"Ruth Kettering",
+			"Derek Kettering",
+			"Major Richard Knighton",
+			"Ada Mason",
+			"Katherine Grey",
+			"Count de la Roche",
+			"Mirelle Milesi",
+			"Inspector Caux",
+			"Lady at Ball",
+			"Steward",
+			"Sister Rosalia",
+			"Dolores"
+		],
+		"crimes": [
+			{
+				"criminalAct": "Murder",
+				"means": "Blunt trauma",
+				"motive": "Steal the victim's jewels",
+				"opportunity": "Sneaking into the victim's compartment at night",
+				"perpetrator": "Major Richard Knighton",
+				"victim": "Ruth Kettering"
+			},
+			{
+				"criminalAct": "Theft",
+				"means": "Sneaking into the victim's compartment at night",
+				"motive": "Steal the jewel, the Heart of Fire",
+				"opportunity": "Sneaking into the victim's compartment at night",
+				"perpetrator": "Major Richard Knighton and Ada Mason",
+				"victim": "Ruth Kettering"
+			}
+		]
+	},
+	{
+		"season": 10,
+		"episode": 2,
+		"title": "Cards on the Table",
+		"episodeSummary": "Attending a dinner party hosted by the eccentric Mr. Shaitana, Poirot finds himself among unique party guests: four suspected murderers and four slueths.  When Shaitana is murdered during a game of bridge, the slueths team up to unmask the murderer.",
+		"originalAirDate": "2006-03-19T00:00:00.000Z",
+		"director": "Sarah Harding",
+		"writer": "Nick Dear",
+		"mood": "dark",
+		"tropes": {
+			"hostIsMurdered": "true",
+			"artImitatesArt":"true",
+			"poirotSolvesColdCase":"true",
+			"poirotCompulsiveSymmetry":"true",
+			"poirotLenientJudgeAndJury":"true",
+			"bridgeGame":"true"
+		},
+		"mainCharacters": {
+			"oliver": "true"
+		},
+		"supportingCharacters": [
+			"Mr Shaitana",
+			"Major Despard",
+			"Dr Roberts",
+			"Mrs Lorrimer",
+			"Anne Meredith",
+			"Colonel Hughes",
+			"Superintendent Jim Wheeler",
+			"Rhoda Dawes",
+			"Miss Burgess",
+			"Mr Luxmore",
+			"Mrs Luxmore",
+			"Dorothy Craddock",
+			"Millie",
+			"Serge Mureau",
+			"Shaitana's Butler",
+			"Sergeant O'Connor"
+		],
+		"crimes": [
+			{
+				"criminalAct": "Murder",
+				"means": "Stiletto",
+				"motive": "Avoid being exposed as a murderer",
+				"opportunity": "Stabbing him after dinner while he slept",
+				"perpetrator": "Dr Roberts",
+				"victim": "Mr Shaitana"
+			},
+			{
+				"criminalAct": "Murder",
+				"means": "An injection contaminated with septicemia",
+				"motive": "Silence her knowledge about his affair with her husband",
+				"opportunity": "Injecting her with the contaminated shot among her other vaccinations for going abroad",
+				"perpetrator": "Dr Roberts",
+				"victim": "Dorothy Craddock"
+			},
+			{
+				"criminalAct": "Attempted murder",
+				"means": "Pushing the intended victim out of the rowboat",
+				"motive": "Desperation and trying to continue to control her friend",
+				"opportunity": "Going for a row on the lake after their quarrel",
+				"perpetrator": "Rhoda Dawes",
+				"victim": "Anne Meredith"
+			},
+			{
+				"criminalAct": "Murder",
+				"means": "Putting the bottle containing the poison in the medicine cabinet",
+				"motive": "Protect Anne Meredith from going to jail, and gain leverage over her friend by making her think she was responsible for the death",
+				"opportunity": "",
+				"perpetrator": "Rhoda Dawes",
+				"victim": "Mrs. Benson"
+			},			
+			{
+				"criminalAct": "Manslaughter",
+				"means": "Rifle",
+				"motive": "Self defence",
+				"opportunity": "Protecting Mrs Luxmore from a knife attack while Mr Luxmore was in a drug-crazed frenzy",
+				"perpetrator": "Major Despard",
+				"victim": "Mr Luxmore"
+			},
+			{
+				"criminalAct": "Petty theft",
+				"means": "Taking the stockings while Poirot was out of the room",
+				"motive": "Kleptomania",
+				"opportunity": "Taking the stockings while Poirot was out of the room",
+				"perpetrator": "Anne Meredith",
+				"victim": "Hercule Poirot"
+			},
+			{
+				"criminalAct": "Burglary",
+				"means": "Police access to the scene of the crime",
+				"motive": "Attempt to recover incriminating photographs",
+				"opportunity": "Police access to the scene of the crime",
+				"perpetrator": "Superintendent Wheeler",
+				"victim": "The Estate of Mr Shaitana"
+			},
+			{
+				"criminalAct": "Murder",
+				"means": "Pushing the victim down the stairs",
+				"motive": "Release from marriage to marry another",
+				"opportunity": "Living together in the same household",
+				"perpetrator": "Mrs Lorrimer",
+				"victim": "Herbert Meredith"
+			}
+		]
+	},
+	{
+		"season": 10,
+		"episode": 3,
+		"title": "After the Funeral",
+		"episodeSummary": "After a wealthy man's funeral, his sister claims he was murdered, only to be killed herself the next day.",
+		"originalAirDate": "2006-03-26T00:00:00.000Z",
+		"director": "Maurice Phillips",
+		"writer": "Philomena McDonagh",
+		"mood": "serious",
+		"tropes": {},
+		"mainCharacters": {},
+		"supportingCharacters": [
+			"Gilbert Entwhistle",
+			"Helen Abernethie",
+			"George Abernethie",
+			"Michael Shane",
+			"Rosamund Shane",
+			"Miss Gilchrist",
+			"Susannah Henderson",
+			"Timothy Abernethie",
+			"Maude Abernethie",
+			"Lanscombe",
+			"Inspector Morton",
+			"Dr Larraby",
+			"Giovanni Gallaccio",
+			"Richard Abernethie",
+			"Cora Gallaccio",
+			"Miss Sorrell",
+			"Vicar",
+			"Janet"
+		],
+		"crimes": [
+			{
+				"criminalAct": "Murder",
+				"means": "Hachet",
+				"motive": "Inherit the valuable painting she had disguised among the victim's other paintings to escape her life of servitude and open a tea shop",
+				"opportunity": "Drugging the victim's tea and attaking the victim in bed",
+				"perpetrator": "Miss Gilchrist",
+				"victim": "Cora Gallaccio"
+			},
+			{
+				"criminalAct": "Obstruction of justice",
+				"means": "Poison.  Arsenic",
+				"motive": "Poisoning herself with arsenic to arouse suspicion on others",
+				"opportunity": "Taking the poison herself",
+				"perpetrator": "Miss Gilchrist",
+				"victim": "Miss Gilchrist"
+			},
+			{
+				"criminalAct": "Attempted murder",
+				"means": "Blunt trauma",
+				"motive": "Stop the victim from making a telephone call to reveal what she remembered about mirror images and her memory of Aunt Cora",
+				"opportunity": "Sneaking downstairs behind her while the victim made the telephone call",
+				"perpetrator": "Miss Gilchrist",
+				"victim": "Helen Abernethie"
+			},
+			{
+				"criminalAct": "Theft of the deeds to the property",
+				"means": "Breaking to the solicitor's office to steal the deed",
+				"motive": "To pay off debts",
+				"opportunity": "The perpetrator was not present at the funeral",
+				"perpetrator": "Timothy Abernethie",
+				"victim": "The Estate of Richard Abernethie"
+			},
+			{
+				"criminalAct": "Forgery",
+				"means": "Falsifying a will",
+				"motive": "Disinherit himself and deny the relationship to his real biological father",
+				"opportunity": "Switching the real will with a fake in solicitor's car while he was away",
+				"perpetrator": "George Abernethie",
+				"victim": "The Estate of Richard Abernethie"
+			}
+		]
+	},
+	{
+		"season": 10,
+		"episode": 4,
+		"title": "Taken at the Flood",
+		"episodeSummary": "A young widow is left as the sole inheritor of her husband's estate, but her in-laws seek Poirot's help to prove that the widow's husband may still be alive.",
+		"originalAirDate": "2006-04-02T00:00:00.000Z",
+		"director": "Andy Wilson",
+		"writer": "Guy Andrews",
+		"mood": "dark",
+		"tropes": {
+			"poirotCompulsiveSymmetry":"true"
+		},
+		"mainCharacters": {
+			"george":"true"
+		},
+		"supportingCharacters": [
+			"Adela Marchmont",
+			"Lynn Marchmont",
+			"Rowley Cloade",
+			"Rosaleen Cloade",
+			"David Hunter",
+			"Jeremy Cloade",
+			"Frances Cloade",
+			"Kathy Cloade-Woodward",
+			"Dr Lionel Woodward",
+			"Superintendent Harold Spence",
+			"Major Porter",
+			"Mrs Leadbetter",
+			"Enoch Arden",
+			"Charles Trenton",
+			"Eileen Corrigan",
+			"Pebmarsh",
+			"Beatrice Lippincott",
+			"True Rosaleen"
+		],
+		"crimes": [
+			{
+				"criminalAct": "Murder",
+				"means": "Blunt trauma",
+				"motive": "Rage and wanting to frame David Hunter",
+				"opportunity": "Meeting with him at his hotel room",
+				"perpetrator": "Rowley Cloade",
+				"victim": "Enoch Arden"
+			},
+			{
+				"criminalAct": "Mass murder",
+				"means": "Bomb.  Dynamite",
+				"motive": "Have Eileen Corrigan assume the identity of his sister and inherit",
+				"opportunity": "Hiding in the safe while the bomb went off",
+				"perpetrator": "David Hunter",
+				"victim": "Thirteen people, including Rosaleen Cloade and Gordon Cloade"
+			},
+			{
+				"criminalAct": "Blackmail",
+				"means": "Knowledge of Eileen Corrigan's true identity",
+				"motive": "Greed",
+				"opportunity": "Meeting the victim at the hotel and presenting the terms of the blackmail",
+				"perpetrator": "Enoch Arden",
+				"victim": "David Hunter"
+			},
+			{
+				"criminalAct": "Identity theft",
+				"means": "Assuming the victim's identity after her death",
+				"motive": "Greed",
+				"opportunity": "Coming out of the house after the explosion",
+				"perpetrator": "Eileen Corrigan",
+				"victim": "Rosaleen Cloade"
+			},
+			{
+				"criminalAct": "Embezzlement of client pensions",
+				"means": "Control of the pension funds",
+				"motive": "Greed",
+				"opportunity": "Control of the pension funds",
+				"perpetrator": "Jeremy Cloade",
+				"victim": ""
+			}
+		]
+	},
+	{
+		"season": 11,
+		"episode": 1,
+		"title": "Mrs McGinty's Dead",
+		"episodeSummary": "A police Superintendent asks Poirot's help to find the real killer and prove the innocence of a man wrongly convicted of murder.",
+		"originalAirDate": "2008-09-14T00:00:00.000Z",
+		"director": "Ashley Pearce",
+		"writer": "Nick Dear",
+		"mood": "serious",
+		"tropes": {
+			"poirotMatchmaker": "true",
+			"artImitatesArt":"true"
+		},
+		"mainCharacters": {
+			"oliver": "true",
+			"george":"true"
+		},
+		"supportingCharacters": [
+			"James Bentley",
+			"Maude Williams",
+			"Robin Upward",
+			"Mrs Laura Upward",
+			"Dr Rendell",
+			"Shelagh Rendell",
+			"Miss Sweetiman",
+			"Maureen Summerhayes",
+			"Major Summerhayes",
+			"Eve Carpenter",
+			"Guy Carpenter",
+			"Superintendent Harold Spence",
+			"Pamela Horsfall",
+			"Evelyn Hope",
+			"Bessie Burch",
+			"Joe Burch",
+			"District Judge",
+			"Eva Kane"
+		],
+		"crimes": [
+			{
+				"criminalAct": "Attempted murder",
+				"means": "Pushing the intended victim in front of a train",
+				"motive": "Prevent him from solving the murder",
+				"opportunity": "Going behind the intended victim and pushing",
+				"perpetrator": "Robin Upward",
+				"victim": "Hercule Poirot"
+			},
+			{
+				"criminalAct": "Murder",
+				"means": "Strangulation",
+				"motive": "Prevent word getting out about his true identity",
+				"opportunity": "While everyone else had left the house, he strangled the victim",
+				"perpetrator": "Robin Upward",
+				"victim": "Mrs Laura Upward"
+			},
+			{
+				"criminalAct": "Murder",
+				"means": "Blunt trauma.  Sugar Hammer",
+				"motive": "Prevent the victim from blackmailing him",
+				"opportunity": "Going to her house with promise of a payoff",
+				"perpetrator": "Robin Upward",
+				"victim": "Mrs Abigail McGinty"
+			}
+		]
+	},
+	{
+		"season": 11,
+		"episode": 2,
+		"title": "Cat Among the Pigeons",
+		"episodeSummary": "The headmaster of a prestigious all-girls academy asks for Poirot's help when a murder leads to an intriguing web involving royalty, kidnapping, political unrest, and jewel theft.",
+		"originalAirDate": "2008-09-21T00:00:00.000Z",
+		"director": "James Kent",
+		"writer": "Mark Gatiss",
+		"mood": "serious",
+		"tropes": {},
+		"mainCharacters": {},
+		"supportingCharacters": [
+			"Honoria Bulstrode",
+			"Grace Springer",
+			"Lettice Chadwick",
+			"Eileen Rich",
+			"Elspeth Johnson",
+			"Louise Blanche",
+			"Ann Shapland",
+			"Miss Blake",
+			"Adam Goodman",
+			"Mrs Upjohn",
+			"Prince Ali Yusef",
+			"Princess Shaista",
+			"Inspector Kelsey",
+			"Jennifer Sutcliffe",
+			"Lady Veronica",
+			"Hsui Tai Wan",
+			"Mrs Forbes",
+			"Mr Forbes",
+			"Patricia Forbes",
+			"Julia Upjohn",
+			"Bob Rawlinson"
+		],
+		"crimes": [
+			{
+				"criminalAct": "Murder",
+				"means": "Javelin",
+				"motive": "Silence her because she had witnessed the perpetrator searching for the jewels in the tennis rackets",
+				"opportunity": "While the two of them were alone at night in the sports pavillion",
+				"perpetrator": "Ann Shapland",
+				"victim": "Grace Springer"
+			},
+			{
+				"criminalAct": "Attempted Murder",
+				"means": "Blunt trauma.  Sandbag",
+				"motive": "Prevent discovery of the perpetrator's motives and actions",
+				"opportunity": "Following the victim while she searched the Princess Shaista's locker",
+				"perpetrator": "Ann Shapland",
+				"victim": "Lettice Chadwick"
+			},
+			{
+				"criminalAct": "Kidnapping",
+				"means": "Unspecified",
+				"motive": "Send another young woman in her place in order to steal the jewels",
+				"opportunity": "Capturing the Princess in Switzerland",
+				"perpetrator": "Ramat Revolutionaries",
+				"victim": "Princess Shaista"
+			},
+			{
+				"criminalAct": "Blackmail",
+				"means": "Knowing the actions and identity of the killer",
+				"motive": "Greed",
+				"opportunity": "Speaking with them behind the scenes ",
+				"perpetrator": "Louise Blanche",
+				"victim": "Ann Shapland"
+			},
+			{
+				"criminalAct": "Murder",
+				"means": "Blunt trauma.  Sandbag",
+				"motive": "Stop the blackmail and prevent the victim from revealing her secret",
+				"opportunity": "Using the blackmail payoff as a chance to kill the victim",
+				"perpetrator": "Ann Shapland",
+				"victim": "Louise Blanche"
+			},
+			{
+				"criminalAct": "Murder",
+				"means": "Pistol",
+				"motive": "Attack the headmistress",
+				"opportunity": "Pulling a gun during the revealing of the crime",
+				"perpetrator": "Ann Shapland",
+				"victim": "Lettice Chadwick"
+			}
+		]
+	},
+	{
+		"season": 11,
+		"episode": 3,
+		"title": "Third Girl",
+		"episodeSummary": "When a troubled young heiress reaches out to Miss Oliver about a murder she might have committed, she engages Poirot to find the truth among murder and suicide.",
+		"originalAirDate": "2008-09-28T00:00:00.000Z",
+		"director": "Dan Reed",
+		"writer": "Peter Flannery",
+		"mood": "dark",
+		"tropes": {
+			"poirotTriesToPreventMurder":"true",
+			"artImitatesArt":"true"
+		},
+		"mainCharacters": {
+			"oliver": "true",
+			"george":"true"
+		},
+		"supportingCharacters": [
+			"Norma Restarick",
+			"Frances Cary",
+			"Claudia Reece-Holland",
+			"Andrew Restarick",
+			"Sir Roderick Horsfield",
+			"Sonia Benson",
+			"David Baker",
+			"Inspector Nelson",
+			"Miss Battersby",
+			"Nanny Lavinia Seagram",
+			"Alf Renny",
+			"Bus Ticket Inspector",
+			"Nurse",
+			"Policeman",
+			"Young Norma Restarick",
+			"Mary Restarick",
+			"Daphne the Waitress"
+		],
+		"crimes": [
+			{
+				"criminalAct": "Murder",
+				"means": "Smothering with a pillow",
+				"motive": "Drive her half sister to suicide",
+				"opportunity": "Going to the victim's room while she slept and placing a knife in the drawer",
+				"perpetrator": "Frances Cary",
+				"victim": "Lavinia Seagram"
+			},
+			{
+				"criminalAct": "Identity theft",
+				"means": "Coming back from Africa after Restarick's death and impersonating him with the help of Lavinia Seagram",
+				"motive": "Take over the business and sell it to the highest bidder",
+				"opportunity": "Impersonating the victim with the help of Lavinia Seagram",
+				"perpetrator": "Robert Orwell",
+				"victim": "Andrew Restarick"
+			},
+			{
+				"criminalAct": "Assualt",
+				"means": "Blunt trauma",
+				"motive": "Steal the letter Ms. Oliver had recovered from the murder victim's room",
+				"opportunity": "Discovering the victim's whereabouts by listening to her phone call",
+				"perpetrator": "Robert Orwell",
+				"victim": "Ariadne Oliver"
+			}
+		]
+	},
+	{
+		"season": 11,
+		"episode": 4,
+		"title": "Appointment with Death",
+		"episodeSummary": "Poirot joins an archeological expedition in Syria.  When the expedition leader's abusive wife is murdered, Poirot finds motive among all the suspects in camp. ",
+		"originalAirDate": "2009-12-25T00:00:00.000Z",
+		"director": "Ashley Pearce",
+		"writer": "Guy Andrews",
+		"mood": "dark",
+		"tropes": {
+			"diggingUpThePast":"true"
+		},
+		"mainCharacters": {},
+		"supportingCharacters": [
+			"Lord Boynton",
+			"Lady Leonora Boynton",
+			"Raymond Boynton",
+			"Carol Boynton",
+			"Dr Theodore Gerard",
+			"Dame Celia Westholme",
+			"Leonard Boynton",
+			"Dr Sarah King",
+			"Colonel Carbury",
+			"Jefferson Cope",
+			"Sister Agnieszka",
+			"Nanny Taylor",
+			"Jinny Boynton",
+			"Labourer",
+			"Concierge",
+			"Taxi Driver",
+			"Mahmoud"
+		],
+		"crimes": [
+			{
+				"criminalAct": "Murder",
+				"means": "Medical sharp.  Pricking the victim with a syringe of morphia, letting her burn in the sun and then stabbing her when they went to check on her",
+				"motive": "Revenge",
+				"opportunity": "Preparing the syringe, dropping the dead wasp, and being first on the scene when they went to check on the victim",
+				"perpetrator": "Celia Westholme and Dr Theodore Gerard",
+				"victim": "Lady Leonora Boynton"
+			},
+			{
+				"criminalAct": "Conspiracy and human trafficking",
+				"means": "Kidnapping young girls for sale",
+				"motive": "Greed",
+				"opportunity": "Sneaking into the victim's ",
+				"perpetrator": "Sister Agnieszka",
+				"victim": "Jinny Boynton"
+			},
+			{
+				"criminalAct": "Murder",
+				"means": "Poison",
+				"motive": "Prevent being executed for their crimes",
+				"opportunity": "Pricking the victim and himself with the poison",
+				"perpetrator": "Dr Theodore Gerard",
+				"victim": "Dame Celia Westholme"
+			}
+		]
+	},
+	{
+		"season": 12,
+		"episode": 1,
+		"title": "Three Act Tragedy",
+		"episodeSummary": "A vicar dies suddenly at a cocktail party, and though the inquest finds no evidence of foul play, Poirot's friend Cartwright suspects murder.  When a gathering of similar members results in another death after drinks, Poirot set a trap with a party of his own.",
+		"originalAirDate": "2010-01-03T00:00:00.000Z",
+		"director": "Ashley Pearce",
+		"writer": "Nick Dear",
+		"mood": "dark",
+		"tropes": {
+			"perpTriesToOutmartPoirot": "true",
+			"artImitatesArt":"true"
+		},
+		"mainCharacters": {
+			"george":"true"
+		},
+		"supportingCharacters": [
+			"Sir Charles Cartwright",
+			"Sir Bartholomew Strange",
+			"Muriel Wills",
+			"Egg Lytton Gore",
+			"Lady Mary Lytton Gore",
+			"Oliver Manders",
+			"Miss Milray",
+			"Captain Derek Dacres",
+			"Cynthia Dacres",
+			"Mrs Babbington",
+			"Superintendent Crossfield",
+			"Matron",
+			"Reverend Stephen Babbington",
+			"Annie",
+			"Coroner",
+			"French Boy"
+		],
+		"crimes": [
+			{
+				"criminalAct": "Murder",
+				"means": "Poison.  Nicotine in the cocktail",
+				"motive": "A dress rehearsal practice for the next murder",
+				"opportunity": "Putting nicotine in a glass among many and serving it to the guests, then switching out the glass for another",
+				"perpetrator": "Sir Charles Cartwright",
+				"victim": "Reverend Stephen Babbington"
+			},
+			{
+				"criminalAct": "Murder",
+				"means": "Poison.  Nicotine in the port",
+				"motive": "Prevent the victim from speaking out against Cartwright marrying Egg Lytton Gore because Cartwright was already married",
+				"opportunity": "Posing as the butler and ",
+				"perpetrator": "Sir Charles Cartwright",
+				"victim": "Doctor Bartholomew Strange"
+			}
+		]
+	},
+	{
+		"season": 12,
+		"episode": 2,
+		"title": "Hallowe'en Party",
+		"episodeSummary": "At a Hallowe'en party, a girl prone to telling tall tales claims to have witnessed a murder years before and is drowned later that night in the apple-bobbing bucket.",
+		"originalAirDate": "2010-10-27T00:00:00.000Z",
+		"director": "Charles Palmer",
+		"writer": "Mark Gatiss",
+		"mood": "serious",
+		"tropes": {
+			"poirotSolvesColdCase": "true",
+			"poirotMatchmaker":"true",
+			"artImitatesArt":"true",
+			"poirotTriesToPreventMurder":"true"
+		},
+		"mainCharacters": {
+			"oliver": "true",
+			"george":"true"
+		},
+		"supportingCharacters": [
+			"Judith Butler",
+			"Rowena Drake",
+			"Frances Drake",
+			"Edmund Drake",
+			"Michael Garfield",
+			"Mrs Reynolds",
+			"Mr Fullerton",
+			"Elizabeth Whittaker",
+			"Reverend Cottrell",
+			"Mrs Goodbody",
+			"Mrs Louise Llewellyn-Smythe",
+			"Olga Seminoff",
+			"Miranda Butler",
+			"Inspector Raglan",
+			"Joyce Reynolds",
+			"Leopold Reynolds"
+		],
+		"crimes": [
+			{
+				"criminalAct": "Murder",
+				"means": "Drowning",
+				"motive": "Prevent the victim from revealing anything about the previous murder",
+				"opportunity": "Getting the victim alone in the room with the apple bobbing pool",
+				"perpetrator": "Rowena Drake",
+				"victim": "Joyce Reynolds"
+			},
+			{
+				"criminalAct": "Murder",
+				"means": "Drowning",
+				"motive": "Prevent the victim from revealing that he had seen the perpetrator commit the murder of his sister",
+				"opportunity": "Stalking the victim and drowning him in the lake",
+				"perpetrator": "Michael Garfield",
+				"victim": "Leopold Reynolds"
+			},
+			{
+				"criminalAct": "Inheritance Fraud",
+				"means": "Making a false will in favour of the victim which was an obvious forgery",
+				"motive": "Implicating the victim in a case against her claim to the estate",
+				"opportunity": "Forging the will and switching it for the real will",
+				"perpetrator": "Lesley Ferrier",
+				"victim": "Olga Seminoff"
+			},
+			{
+				"criminalAct": "Murder",
+				"means": "Knife",
+				"motive": "Silence the victim's knowledge about the inheritance fraud plot",
+				"opportunity": "Stabbing the victim at night when making the payoff",
+				"perpetrator": "Michael Garfield",
+				"victim": "Lesley Ferrier"
+			},
+			{
+				"criminalAct": "Attempted murder",
+				"means": "Poison",
+				"motive": "Prevent the intended victim from telling others about his role in the murder of Olga Seminoff",
+				"opportunity": "Meeting in the garden at night and trying to force her to drink the poison",
+				"perpetrator": "Michael Garfield",
+				"victim": "Miranda Butler"
+			},
+			{
+				"criminalAct": "Murder",
+				"means": "Vehicle",
+				"motive": "Jealousy.  The perpetrator wanted the victim's wife",
+				"opportunity": "Running the victim down in the road",
+				"perpetrator": "Michael Garfield",
+				"victim": "Mr Drake"
+			},
+			{
+				"criminalAct": "Murder",
+				"means": "Poison",
+				"motive": "Greed. Inherit",
+				"opportunity": "Unspecified",
+				"perpetrator": "Unspecified",
+				"victim": "Louise Llewellyn-Smythe"
+			},
+			{
+				"criminalAct": "Murder",
+				"means": "Knife",
+				"motive": "Prevent the victim from exposing the inheritance fraud",
+				"opportunity": "Stabbing the victim at her home when she confronted her with the truth",
+				"perpetrator": "Rowena Drake",
+				"victim": "Olga Seminoff"
+			}
+		]
+	},
+	{
+		"season": 12,
+		"episode": 3,
+		"title": "Murder on the Orient Express",
+		"episodeSummary": "When a man is murdered in the night aboard the Orient Express, Poirot finds himself amongst an international group of suspects in a snowbound train.",
+		"originalAirDate": "2010-12-25T00:00:00.000Z",
+		"director": " Philip Martin",
+		"writer": "Stewart Harcourt",
+		"mood": "dark",
+		"tropes": {
+			"bonVoyage": "true",
+			"poirotSolvesColdCase":"true"
+		},
+		"mainCharacters": {},
+		"supportingCharacters": [
+			"Samuel Ratchett",
+			"Mary Debenham",
+			"John Arbuthnot",
+			"Princess Natalia Dragomiroff",
+			"Hildegarde Schmidt",
+			"Edward Masterman",
+			"Caroline Hubbard",
+			"Hector MacQueen",
+			"Greta Ohlsson",
+			"Antonio Foscarelli",
+			"Count Andrenyi",
+			"Countess Andrenyi",
+			"Dr Constantine",
+			"Pierre Michel",
+			"Lieutenant Blanchflower",
+			"Xavier Bouc",
+			"Lieutenant Morris",
+			"Concierge"
+		],
+		"crimes": [
+			{
+				"criminalAct": "Murder and Conspiracy",
+				"means": "Knife",
+				"motive": "Revenge",
+				"opportunity": "Drugging the victim, entering his compartment at night and stabbing him with a knife 12 times",
+				"perpetrator": "Mary Debenham, John Arbuthnot, Princess Natalia Dragomiroff, Hildegarde Schmidt, Edward Masterman, Caroline Hubbard, Hector MacQueen, Greta Ohlsson, Antonio Foscarelli, Pierre Michel, and Count and Countess Andrenyi",
+				"victim": "Samuel Ratchett"
+			},
+			{
+				"criminalAct": "Kidnapping and Murder",
+				"means": "Access to the family est",
+				"motive": "Greed.  Ransom",
+				"opportunity": "Access to the family estate",
+				"perpetrator": "Samuel Ratchett",
+				"victim": "Daisy Armstrong"
+			}
+		]
+	},
+	{
+		"season": 12,
+		"episode": 4,
+		"title": "The Clocks",
+		"episodeSummary": "A young secretary is ensnared as a murder suspect when she finds a dead body surrounded by four stopped clocks in the home of a blind woman.",
+		"originalAirDate": "2011-12-26T00:00:00.000Z",
+		"director": "Charles Palmer",
+		"writer": "Stewart Harcourt",
+		"mood": "light",
+		"tropes": {
+			"artImitatesArt": "true",
+			"poirotMatchmaker":"true"
+		},
+		"mainCharacters": {},
+		"supportingCharacters": [
+			"Lieutenant Colin Race",
+			"Sheila Webb",
+			"Millicent Pebmarsh",
+			"Miss Kathy Martindale",
+			"Nora Brent",
+			"Inspector Hardcastle",
+			"Christopher Mabbutt",
+			"Merlina Rival",
+			"Vice Admiral Hamling",
+			"Mrs Hemmings",
+			"Joe Bland",
+			"Valerie Bland",
+			"Rachel Waterhouse",
+			"Matthew Waterhouse",
+			"Annabel Larkin",
+			"Fiona Hanbury",
+			"Sven Hjerson",
+			"Mrs Swinburne",
+			"May Mabbutt",
+			"Jenny Mabbutt",
+			"Professor Purdy",
+			"Constable Jenkins"
+		],
+		"crimes": [
+			{
+				"criminalAct": "Espionage",
+				"means": "Stealing the navy documents while the officers were playing cards",
+				"motive": "Greed",
+				"opportunity": "Access to the files and knowledge of the officer's habits",
+				"perpetrator": "Annabel Larkin",
+				"victim": "Great Britain"
+			},
+			{
+				"criminalAct": "Murder",
+				"means": "Knife.  Drugging the man's tea and then stabbing him ",
+				"motive": "Silence the man's knowledge about",
+				"opportunity": "Meeting with the man to discuss the matter of the inheritance",
+				"perpetrator": "Joe Bland",
+				"victim": "RH Curry"
+			},
+			{
+				"criminalAct": "Murder",
+				"means": "Strangulation",
+				"motive": "Silence the victim's knowledge about the telephone not ringing and and Ms Pebmarsh requesting the services of Sheila Webb",
+				"opportunity": "After the inquest strangling her in broad daylight while she placed a call at a public telephone booth",
+				"perpetrator": "Kathy Martindale",
+				"victim": "Nora Brent"
+			},
+			{
+				"criminalAct": "Perjury and obstruction of justice",
+				"means": "Lying in court about receiving a telephone call from Ms Pebmarsh requesting typist services",
+				"motive": "Divert suspicion on Sheila Webb",
+				"opportunity": "Being called for questioning during the inquest",
+				"perpetrator": "Kathy Martindale",
+				"victim": "Sheila Webb"
+			},
+			{
+				"criminalAct": "Theft",
+				"means": "Taking the Rosemary clock from the victim's handbag",
+				"motive": "Add more evidence to bewilder and incriminate the victim in the murder",
+				"opportunity": "Taking the Rosemary clock from the victim's handbag",
+				"perpetrator": "Kathy Martindale",
+				"victim": "Sheila Webb"
+			},
+			{
+				"criminalAct": "Identity theft and inheritance fraud",
+				"means": "Posing as Valerie Bland after the victim died in Canada",
+				"motive": "Greeed.  If Valerie Bland was still alive she would stand to inherit",
+				"opportunity": "Posing as Valerie Bland after the victim died in Canada",
+				"perpetrator": "Joe and Valerie Bland",
+				"victim": "The real Valerie Bland"
+			},
+			{
+				"criminalAct": "Obstruction of justice",
+				"means": "Planting the murder weapon into Sheila Webb's bag",
+				"motive": "Incriminate the victim in the murder case",
+				"opportunity": "Placing the weapon in the victim's bag at the inquest",
+				"perpetrator": "Valerie Bland",
+				"victim": "Sheila Webb"
+			},
+			{
+				"criminalAct": "Perjury",
+				"means": "Lying to authorities about the identity of the murder victim and the authenticity of the marriage",
+				"motive": "Under duress",
+				"opportunity": "Lying to authorities about the identity of the murder victim",
+				"perpetrator": "Merlina Rival",
+				"victim": "The Commonwealth"
+			},
+			{
+				"criminalAct": "Murder",
+				"means": "Blunt trauma",
+				"motive": "Silence the victim's knowledge about lying to authorities",
+				"opportunity": "Luring the victim towards the seafront for additional hush money",
+				"perpetrator": "Joe Bland",
+				"victim": "Merlina Rival"
+			}
+		]
+	},
+	{
+		"season": 13,
+		"episode": 1,
+		"title": "Elephants Can Remember",
+		"episodeSummary": "Ariadne Oliver works on a cold case of a couple's tragic murder-suicide, and Poirot investigates a case of a professor drowned in his own hydrotherapy device.  They make little progress until they see the connection between the two cases.",
+		"originalAirDate": "2013-06-09T00:00:00.000Z",
+		"director": "John Strickland",
+		"writer": "Nick Dear",
+		"mood": "dark",
+		"tropes": {
+			"poirotSolvesColdCase": "true",
+			"poirotCompulsiveSymmetry":"true",
+			"poirotTriesToPreventMurder":"true"
+		},
+		"mainCharacters": {
+			"oliver": "true"
+		},
+		"supportingCharacters": [
+			"General Alistair Ravenscroft",
+			"Lady Margaret Ravenscroft",
+			"Celia Ravenscroft",
+			"Desmond Burton-Cox",
+			"Mrs Burton-Cox",
+			"Dr David Willoughby",
+			"Dorothea Jarrow",
+			"Julia Carstairs",
+			"Madame Rosentelle",
+			"Mrs Matcham",
+			"Mrs Buckle",
+			"Detective Inspector Beale",
+			"Superintendent Bill Garroway",
+			"Marie McDermott",
+			"Zélie Rouselle",
+			"Mrs Willoughby"
+		],
+		"crimes": [
+			{
+				"criminalAct": "Murder",
+				"means": "Pushing the victim down the cliff",
+				"motive": "Jealousy",
+				"opportunity": "Going for a walk together near the cliffs in the evening",
+				"perpetrator": "Dorothea Jarrow",
+				"victim": "Lady Margaret Ravenscroft"
+			},
+			{
+				"criminalAct": "Murder",
+				"means": "Pistol",
+				"motive": "Revenge",
+				"opportunity": "Having Dorothea pose as his wife for a few weeks after her murder then going for a walk and shooting the victim",
+				"perpetrator": "General Alistair Ravenscroft",
+				"victim": "Dorothea Jarrow"
+			},
+			{
+				"criminalAct": "Murder",
+				"means": "Drowning",
+				"motive": "Revenge",
+				"opportunity": "Taking a job as a secretary at Willoughby Institute, seducing the victim and striking him over the head and putting him in the hydrotherapy device",
+				"perpetrator": "Mary Jarrow",
+				"victim": "Dr David Willoughby"
+			},
+			{
+				"criminalAct": "Attempted murder",
+				"means": "Attempting to throw the intended victim off the balcony",
+				"motive": "Revenge",
+				"opportunity": "Meeting the intended victim at the manor and attempting murder",
+				"perpetrator": "Mary Jarrow",
+				"victim": "Celia Ravenscroft"
+			},
+			{
+				"criminalAct": "Embezzlement",
+				"means": "Taking money out of the trust fund",
+				"motive": "Greed",
+				"opportunity": "Perpetrator acted as a trustee in charge of administering the trust",
+				"perpetrator": "Mrs Burton-Cox",
+				"victim": "Desmond Burton-Cox"
+			}
+		]
+	},
+	{
+		"season": 13,
+		"episode": 2,
+		"title": "The Big Four",
+		"episodeSummary": "Poirot faces off against a group of political agitators known as the Big Four, responsible for kidnapping, ransom, and bomb threats on the eve of the second World War.",
+		"originalAirDate": "2013-10-23T00:00:00.000Z",
+		"director": "Peter Lydon",
+		"writer": "Mark Gatiss",
+		"mood": "serious",
+		"tropes": {},
+		"mainCharacters": {
+			"japp": "true",
+			"lemon": "true",
+			"hastings": "true",
+			"george":"true"
+		},
+		"supportingCharacters": [
+			"Dr Ivan Savaranoff",
+			"Régine Olivier",
+			"Flossie Monro",
+			"Stephen Paynter",
+			"Diana Paynter",
+			"Dr Quentin",
+			"Gerald Paynter",
+			"Lawrence Boswell Tysoe",
+			"Inspector Meadows",
+			"John Ingles",
+			"Claud Darrell",
+			"Mercutio",
+			"Abe Ryland",
+			"Jonathan Whalley",
+			"Betsy Andrews",
+			"Robert Grant",
+			"Mabel Palmer"
+		],
+		"crimes": [
+			{
+				"criminalAct": "Murder",
+				"means": "Electrifcation.  A chess board wired to produce a lethal jolt when a certain piece was played to a given position",
+				"motive": "Implicate Abe Ryland and bolster the rumour of the Big Four",
+				"opportunity": "Posing as a worker and tampering with the chess board to install the shock device",
+				"perpetrator": "Albert Whalley",
+				"victim": "Dr Ivan Savaranoff"
+			},
+			{
+				"criminalAct": "Kidnapping",
+				"means": "Drugging with gelsamine and bringing them to the theatre",
+				"motive": "Divert suspicion onto the victim and bolster the rumour of the Big Four",
+				"opportunity": "Infiltrating the Peace Party and administering the drug",
+				"perpetrator": "Albert Whalley",
+				"victim": "Abe Ryland and Régine Olivier"
+			},
+			{
+				"criminalAct": "Murder",
+				"means": "Knife",
+				"motive": "Bolster the rumour of the Big Four",
+				"opportunity": "Killing the tramp and dressing him up in eveningwear with clues in his pockets",
+				"perpetrator": "Albert Whalley",
+				"victim": "Tramp"
+			},
+			{
+				"criminalAct": "Murder",
+				"means": "Blunt trauma and knife",
+				"motive": "Incriminate Li Chang Yen and bolster the rumour of the Big Four",
+				"opportunity": "Driving up to the house dressed as a butcher, and leaving with blood on his apron",
+				"perpetrator": "Albert Whalley",
+				"victim": "Jonathan Whalley"
+			},
+			{
+				"criminalAct": "Murder",
+				"means": "Drugging the victim with gelsamine and placing him on the radiator",
+				"motive": "Incriminate Gerald Paynter and bolster the rumour of the Big Four",
+				"opportunity": "Posing as the doctor and giving him medicine",
+				"perpetrator": "Albert Whalley",
+				"victim": "Stephen Paynter"
+			},
+			{
+				"criminalAct": "Bombing and attempted murder",
+				"means": "Rigging a timed bomb to go off during the supposed meeting with Poirot",
+				"motive": "End the investigation into his crime spree",
+				"opportunity": "Inviting Poirot to the address for an interview",
+				"perpetrator": "Albert Whalley",
+				"victim": "Hercule Poirot and the building of Wilberforce Road"
+			}
+		]
+	},
+	{
+		"season": 13,
+		"episode": 3,
+		"title": "Dead Man's Folly",
+		"episodeSummary": "Miss Oliver is asked to organize a murder-mystery party, but is horrified when the girl playing the victim ends up brutally murdered.",
+		"originalAirDate": "2013-10-30T00:00:00.000Z",
+		"director": "Tom Vaughan",
+		"writer": "Nick Dear",
+		"mood": "serious",
+		"tropes": {
+			"poirotSolvesColdCase": "true",
+			"poirotTriesToPreventMurder":"true",
+			"poirotLenientJudgeAndJury":"true"
+		},
+		"mainCharacters": {
+			"oliver": "true"
+		},
+		"supportingCharacters": [
+			"Sir George Stubbs",
+			"Hattie Stubbs",
+			"Amy Folliat",
+			"Amanda Brewis",
+			"Captain Jim Warburton",
+			"Mrs Enid Warburton",
+			"Michael Weyman",
+			"Alec Legge",
+			"Sally Legge",
+			"John Merdell",
+			"Detective Inspector Bland",
+			"Sergeant Hoskins",
+			"Etienne de Sousa",
+			"Marlene Tucker",
+			"Gertie Tucker",
+			"Stan Bickford",
+			"Henden",
+			"The Dutch Girl Hiker"
+		],
+		"crimes": [
+			{
+				"criminalAct": "Murder",
+				"means": "Smothering with a pillow",
+				"motive": "Greed",
+				"opportunity": "Murdering the victim the first night upon returning to Nasse and burying the body under the folly",
+				"perpetrator": "James Folliat",
+				"victim": "Hattie Stubbs"
+			},
+			{
+				"criminalAct": "Identity theft",
+				"means": "Posing as the victim the morning after her death",
+				"motive": "Cover up the murder",
+				"opportunity": "Wrapping the perpetrator up due to the bad weather",
+				"perpetrator": "James Folliat",
+				"victim": "Hattie Stubbs"
+			},
+			{
+				"criminalAct": "Murder",
+				"means": "Strangulation",
+				"motive": "Silence the victim's knowledge about James Folliat really being alive and posing as Sir George Stubbs",
+				"opportunity": "Calling the victim to let her in and then strangling her",
+				"perpetrator": "The false Hattie Stubbs",
+				"victim": "Marlene Tucker"
+			},
+			{
+				"criminalAct": "Murder",
+				"means": "Blunt trauma",
+				"motive": "Silence the victim's knowledge about James Folliat really being alive and posing as Sir George Stubbs",
+				"opportunity": "Using the victim's habit of drinking on the water to make it appear as an accident",
+				"perpetrator": "James Folliat",
+				"victim": "John Merdell"
+			},
+			{
+				"criminalAct": "Blackmail",
+				"means": "Using the knowledge of the victim's real identity as leverage",
+				"motive": "Greed",
+				"opportunity": "Meeting with the victim and arranging payoffs",
+				"perpetrator": "Marlene Tucker",
+				"victim": "James Folliat"
+			}
+		]
+	},
+	{
+		"season": 13,
+		"episode": 4,
+		"title": "The Labours of Hercules",
+		"episodeSummary": "Poirot attempts to unmask a criminal mastermind, murderer and art thief in a snowbound hotel in the Swiss Alps when his long-lost love, the Countess Vera Rossakoff, reappears.",
+		"originalAirDate": "2013-11-06T00:00:00.000Z",
+		"director": "Andy Wilson",
+		"writer": "Guy Andrews",
+		"mood": "dark",
+		"tropes": {
+			"poirotTriesToPreventMurder": "true",
+			"poirotTriesToPreventCrime":"true",
+			"poirotMatchmaker":"true",
+			"poirotSmitten": "true",
+			"poirotCompulsiveSymmetry":"true",
+			"poirotIsReallyBelgian":"true"
+		},
+		"mainCharacters": {},
+		"supportingCharacters": [
+			"Countess Vera Rossakoff",
+			"Alice Cunningham",
+			"Harold Waring",
+			"Dr Heinrich Lutz",
+			"Francesco Risatto",
+			"Elsie Clayton",
+			"Mr Schwartz",
+			"Katrina Samoushenka",
+			"Inspector Lementeuil",
+			"Sir Anthony Morgan",
+			"Dr Burton",
+			"Chief Inspector",
+			"Annabel Rice",
+			"Ted Williams",
+			"Lucinda Le Mesurier",
+			"Gustave",
+			"Policewoman"
+		],
+		"crimes": [
+			{
+				"criminalAct": "Murder",
+				"means": "Knife",
+				"motive": "Notoriety and greed,",
+				"opportunity": "Posing as the lady at the party and intercepting the safe knock",
+				"perpetrator": "Alice Cunningham",
+				"victim": "Lucinda Le Mesurier"
+			},
+			{
+				"criminalAct": "Theft of the painting, 'Vanquishing the Hydra' and the necklace of Lucinda Le Mesurier",
+				"means": "Killing the victim and hitting the guard over the head to steal the painting",
+				"motive": "Notoriety and greed",
+				"opportunity": "Posing as the lady at the party",
+				"perpetrator": "Alice Cunningham",
+				"victim": "Ted Williams"
+			},
+			{
+				"criminalAct": "Confidence scheme",
+				"means": "Conspiring with the staff to receive a bribe from Harold Waring to hush up the death of Elsie Clayton's husband",
+				"motive": "Greed",
+				"opportunity": "Mrs Rice dressing up and posing as Clayton's husband and faking the attack with the paperweight",
+				"perpetrator": "Elsie Clayton, Mrs Rice and Francesco Risatto ",
+				"victim": "Harold Waring"
+			},
+			{
+				"criminalAct": "Murder",
+				"means": "Hanging",
+				"motive": "Infiltrate the hotel and pose as a waiter to spy on the police",
+				"opportunity": "Luring the victim to the basement and attcking him there",
+				"perpetrator": "Gustave",
+				"victim": "Robert the waiter"
+			},
+			{
+				"criminalAct": "Dealing in stolen property",
+				"means": "Acting as a fence for stolen goods",
+				"motive": "Greed",
+				"opportunity": "Connections with buyers",
+				"perpetrator": "Dr Henrik Lutz",
+				"victim": "The Commonwealth"
+			}
+		]
+	},
+	{
+		"season": 13,
+		"episode": 5,
+		"title": "Curtain: Poirot's Last Case",
+		"episodeSummary": "Hasting and an ailing Poirot reunite at the scene of their first case to solve their last case together.",
+		"originalAirDate": "2013-11-13T00:00:00.000Z",
+		"director": "Hettie Macdonald",
+		"writer": "Kevin Elyot",
+		"mood": "dark",
+		"tropes": {
+			"poirotCommitsCrime": "true",
+			"poirotCompulsiveSymmetry":"true"
+		},
+		"mainCharacters": {
+			"hastings": "true",
+			"george":"true"
+		},
+		"supportingCharacters": [
+			"Dr John Franklin",
+			"Barbara Franklin",
+			"Nurse Craven",
+			"Sir William Boyd-Carrington",
+			"Colonel Toby Luttrell",
+			"Daisy Luttrell",
+			"Judith Hastings",
+			"Elizabeth Cole",
+			"Major Allerton",
+			"Stephen Norton",
+			"Curtiss",
+			"Coroner"
+		],
+		"crimes": [
+			{
+				"criminalAct": "Murder",
+				"means": "Pistol.  Drugging both hot chocolates with sleeping drafts and switching it with the victim, then returning the victim to his room to shoot him",
+				"motive": "Prevent further acts of antagonism leading to murder",
+				"opportunity": "Luring the victim to confront him with his misdeeds",
+				"perpetrator": "Hercule Poirot",
+				"victim": "Stephen Norton"
+			}
+		]
+	}
+]
